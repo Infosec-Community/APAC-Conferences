@@ -8,14 +8,19 @@ A list of infosec / hacking conferences in Asia Pacific
 | Month    | Location              | Conferences |
 |----------|-----------------------|-------------|
 | February | Queensland, Australia | [CrikeyCon](https://www.crikeycon.com/) |
+| April    | ACT, Australia   | [BSides Canberra](http://www.bsidesau.com.au/) |
 
 # Conferences by List
 ## Australia
 [Queensland](#queensland)
+[ACT](#ACT)
 
 ## Australia
 ### Queensland
 [CrikeyCon](https://www.crikeycon.com/)
+
+### ACT
+[BSides Canberra](http://www.bsidesau.com.au/)
 
 ## New Zealand
 
