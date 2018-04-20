@@ -16,6 +16,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | September| Sydney, NSW, Australia             | [PlatypusCon](https://letsjusthackshit.org/) |
 | September| Perth, WA, Australia               | [BSides Perth](https://bsidesperth.com.au/) |
 | October  | Melbourne, Victoria, Australia     | [Ruxcon](https://ruxcon.org.au/) - Unconfirmed |
+| October  | Christchurch, New Zealand          | [CHCon](https://2018.chcon.nz/) |
 | November | Wellington, New Zealand            | [Kiwicon](https://www.kiwicon.org/) |
 | December | Perth, Western Australia, Australia| [WACTF](https://capture.tf/) |
 
@@ -28,6 +29,10 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 
 ## Singapore
 [Singapore](#singapore)
+
+## New Zealand
+[Christchurch](#christchurch)
+[Wellington](#wellington)
 
 ## Australia
 ### New South Wales
@@ -56,9 +61,14 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 [BSides Perth](https://bsidesperth.com.au/)
 [WACTF](https://capture.tf/)
 
+
+
 ## New Zealand
 ### Wellington
 [Kiwicon](https://www.kiwicon.org/)
+
+### Christchurch
+[CHCon](https://2018.chcon.nz/)
 
 ## Singapore
 ### Singapore
