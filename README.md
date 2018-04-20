@@ -14,8 +14,10 @@ A list of infosec / hacking conferences in Asia Pacific
 | May      | Sunshine Coast, Queensland, Australia | [TuskCon](http://tuskcon.org/) |
 | May      | Gold Coast, Queensland, Australia  | [AusCert](https://www.auscert.org.au/events/2018-05-29-auscert2018-17th-annual-auscert-cyber-security-conference) |
 | September| Sydney, NSW, Australia             | [PlatypusCon](https://letsjusthackshit.org/) |
+| September| Perth, WA, Australia               | [BSides Perth](https://bsidesperth.com.au/) |
 | October  | Melbourne, Victoria, Australia     | [Ruxcon](https://ruxcon.org.au/) - Unconfirmed |
 | November | Wellington, New Zealand            | [Kiwicon](https://www.kiwicon.org/) |
+| December | Perth, Western Australia, Australia| [WACTF](https://capture.tf/) |
 
 # Conferences by Region
 ## Australia
@@ -23,6 +25,9 @@ A list of infosec / hacking conferences in Asia Pacific
 [Victoria](#victoria)
 [Queensland](#queensland)
 [ACT](#ACT)
+
+## Singapore
+[Singapore](#singapore)
 
 ## Australia
 ### New South Wales
@@ -45,6 +50,11 @@ A list of infosec / hacking conferences in Asia Pacific
 ### ACT
 #### Canberra
 [BSides Canberra](http://www.bsidesau.com.au/)
+
+### Western Australia
+#### Perth
+[BSides Perth](https://bsidesperth.com.au/)
+[WACTF](https://capture.tf/)
 
 ## New Zealand
 ### Wellington
