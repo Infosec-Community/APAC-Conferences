@@ -25,6 +25,7 @@ A list of infosec / hacking conferences in Asia Pacific
 ### Victoria
 #### Melbourne
 [BSides Melbourne](https://www.bsidesmelbourne.com/)
+
 [Ruxcon](https://ruxcon.org.au/) - Unconfirmed
 ### Queensland
 #### Brisbane
