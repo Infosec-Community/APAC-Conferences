@@ -9,6 +9,7 @@ A list of infosec / hacking conferences in Asia Pacific
 |----------|------------------------------------|-------------|
 | January  | Melbourne, Victoria, Australia     | [BSides Melbourne](https://www.bsidesmelbourne.com/) |
 | February | Brisbane, Queensland, Australia    | [CrikeyCon](https://www.crikeycon.com/) |
+| March    | Singapore, Singapore               | [Blackhat Asia](https://www.blackhat.com/asia-18/) |
 | April    | Canberra, ACT, Australia           | [BSides Canberra](http://www.bsidesau.com.au/) |
 | May      | Sunshine Coast, Queensland, Australia | [TuskCon](http://tuskcon.org/) |
 | May      | Gold Coast, Queensland, Australia  | [AusCert](https://www.auscert.org.au/events/2018-05-29-auscert2018-17th-annual-auscert-cyber-security-conference) |
@@ -50,4 +51,5 @@ A list of infosec / hacking conferences in Asia Pacific
 [Kiwicon](https://www.kiwicon.org/)
 
 ## Singapore
-
+### Singapore
+[Blackhat Asia](https://www.blackhat.com/asia-18/)
