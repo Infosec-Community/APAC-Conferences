@@ -23,8 +23,11 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 # Conferences by Region
 ## Australia
 [New South Wales](#newsouthwales)
+
 [Victoria](#victoria)
+
 [Queensland](#queensland)
+
 [ACT](#ACT)
 
 ## Singapore
@@ -32,6 +35,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 
 ## New Zealand
 [Christchurch](#christchurch)
+
 [Wellington](#wellington)
 
 ## Australia
@@ -59,6 +63,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 ### Western Australia
 #### Perth
 [BSides Perth](https://bsidesperth.com.au/)
+
 [WACTF](https://capture.tf/)
 
 
