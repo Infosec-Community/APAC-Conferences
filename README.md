@@ -10,13 +10,16 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | January  | Melbourne, Victoria, Australia     | [BSides Melbourne](https://www.bsidesmelbourne.com/) |
 | February | Brisbane, Queensland, Australia    | [CrikeyCon](https://www.crikeycon.com/) |
 | March    | Singapore, Singapore               | [Blackhat Asia](https://www.blackhat.com/asia-18/) |
+| March    | Brisbabne, Australia               | [BrisSEC](https://www.aisa.org.au/Public/Events/Conferences/BrisSEC_2018/BrisSEC18.aspx) |
 | April    | Canberra, ACT, Australia           | [BSides Canberra](http://www.bsidesau.com.au/) |
 | May      | Sunshine Coast, Queensland, Australia | [TuskCon](http://tuskcon.org/) |
-| May      | Gold Coast, Queensland, Australia  | [AusCert](https://www.auscert.org.au/events/2018-05-29-auscert2018-17th-annual-auscert-cyber-security-conference) |
+| May      | Gold Coast, Queensland, Australia  | [AusCERT](https://www.auscert.org.au/events/2018-05-29-auscert2018-17th-annual-auscert-cyber-security-conference) |
+| August   | Singapore, Singapore               | [HITB GSEC](https://gsec.hitb.org/) |
 | September| Sydney, NSW, Australia             | [PlatypusCon](https://letsjusthackshit.org/) |
 | September| Perth, WA, Australia               | [BSides Perth](https://bsidesperth.com.au/) |
 | October  | Melbourne, Victoria, Australia     | [Ruxcon](https://ruxcon.org.au/) - Unconfirmed |
 | October  | Christchurch, New Zealand          | [CHCon](https://2018.chcon.nz/) |
+| October  | Melbourne, Australia               | [AISA Cybercon](https://cyberconference.com.au/) |
 | November | Wellington, New Zealand            | [Kiwicon](https://www.kiwicon.org/) |
 | December | Perth, Western Australia, Australia| [WACTF](https://capture.tf/) |
 
