@@ -24,22 +24,6 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | December | Perth, Western Australia, Australia| [WACTF](https://capture.tf/) |
 
 # Conferences by Region
-## Australia
-[New South Wales](#newsouthwales)
-
-[Victoria](#victoria)
-
-[Queensland](#queensland)
-
-[ACT](#ACT)
-
-## Singapore
-[Singapore](#singapore)
-
-## New Zealand
-[Christchurch](#christchurch)
-
-[Wellington](#wellington)
 
 ## Australia
 ### New South Wales
@@ -68,8 +52,6 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 #### Perth
 - [BSides Perth](https://bsidesperth.com.au/)
 - [WACTF](https://capture.tf/)
-
-
 
 ## New Zealand
 ### Wellington
