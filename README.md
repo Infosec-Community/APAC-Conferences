@@ -44,43 +44,42 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 ## Australia
 ### New South Wales
 #### Sydney
-[PlatypusCon](https://letsjusthackshit.org/)
+- [PlatypusCon](https://letsjusthackshit.org/)
 
 ### Victoria
 #### Melbourne
-[AISA Cybercon](https://cyberconference.com.au/)
-[BSides Melbourne](https://www.bsidesmelbourne.com/)
+- [AISA Cybercon](https://cyberconference.com.au/)
+- [BSides Melbourne](https://www.bsidesmelbourne.com/)
 
 [Ruxcon](https://ruxcon.org.au/) - Unconfirmed
 ### Queensland
 #### Brisbane
-[BrisSEC](https://www.aisa.org.au/Public/Events/Conferences/BrisSEC_2018/BrisSEC18.aspx)
-[CrikeyCon](https://www.crikeycon.com/)
+- [BrisSEC](https://www.aisa.org.au/Public/Events/Conferences/BrisSEC_2018/BrisSEC18.aspx)
+- [CrikeyCon](https://www.crikeycon.com/)
 #### Sunshine Coast
-[TuskCon](http://tuskcon.org/)
+- [TuskCon](http://tuskcon.org/)
 #### Gold Coast
-[AusCert](https://www.auscert.org.au/events/2018-05-29-auscert2018-17th-annual-auscert-cyber-security-conference)
+- [AusCert](https://www.auscert.org.au/events/2018-05-29-auscert2018-17th-annual-auscert-cyber-security-conference)
 
 ### ACT
 #### Canberra
-[BSides Canberra](http://www.bsidesau.com.au/)
+- [BSides Canberra](http://www.bsidesau.com.au/)
 
 ### Western Australia
 #### Perth
-[BSides Perth](https://bsidesperth.com.au/)
-
-[WACTF](https://capture.tf/)
+- [BSides Perth](https://bsidesperth.com.au/)
+- [WACTF](https://capture.tf/)
 
 
 
 ## New Zealand
 ### Wellington
-[Kiwicon](https://www.kiwicon.org/)
+- [Kiwicon](https://www.kiwicon.org/)
 
 ### Christchurch
-[CHCon](https://2018.chcon.nz/)
+- [CHCon](https://2018.chcon.nz/)
 
 ## Singapore
 ### Singapore
-[Blackhat Asia](https://www.blackhat.com/asia-18/)
-[HITB GSEC](https://gsec.hitb.org/)
+- [Blackhat Asia](https://www.blackhat.com/asia-18/)
+- [HITB GSEC](https://gsec.hitb.org/)
