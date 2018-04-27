@@ -50,8 +50,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 #### Melbourne
 - [AISA Cybercon](https://cyberconference.com.au/)
 - [BSides Melbourne](https://www.bsidesmelbourne.com/)
-
-[Ruxcon](https://ruxcon.org.au/) - Unconfirmed
+- [Ruxcon](https://ruxcon.org.au/) - Unconfirmed
 ### Queensland
 #### Brisbane
 - [BrisSEC](https://www.aisa.org.au/Public/Events/Conferences/BrisSEC_2018/BrisSEC18.aspx)
