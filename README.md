@@ -14,9 +14,11 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | April    | Canberra, ACT, Australia           | [BSides Canberra](http://www.bsidesau.com.au/) |
 | May      | Sunshine Coast, Queensland, Australia | [TuskCon](http://tuskcon.org/) |
 | May      | Gold Coast, Queensland, Australia  | [AusCERT](https://www.auscert.org.au/events/2018-05-29-auscert2018-17th-annual-auscert-cyber-security-conference) |
+| June     | Bangalore, India                   | [Nullcon](https://nullcon.net) |
 | August   | Singapore, Singapore               | [HITB GSEC](https://gsec.hitb.org/) |
 | September| Sydney, NSW, Australia             | [PlatypusCon](https://letsjusthackshit.org/) |
 | September| Perth, WA, Australia               | [BSides Perth](https://bsidesperth.com.au/) |
+| September| Sydney, NSW, Australia             | [Nullcon](https://nullcon.net)
 | October  | Melbourne, Victoria, Australia     | [Ruxcon](https://ruxcon.org.au/) - Unconfirmed |
 | October  | Christchurch, New Zealand          | [CHCon](https://2018.chcon.nz/) |
 | October  | Melbourne, Australia               | [AISA Cybercon](https://cyberconference.com.au/) |
@@ -29,6 +31,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 ### New South Wales
 #### Sydney
 - [PlatypusCon](https://letsjusthackshit.org/)
+- [Nullcon](https://nullcon.net)
 
 ### Victoria
 #### Melbourne
@@ -53,6 +56,9 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 - [BSides Perth](https://bsidesperth.com.au/)
 - [WACTF](https://capture.tf/)
 
+## India
+### Bangalore
+- [Nullcon](https://nullcon.net)
 ## New Zealand
 ### Wellington
 - [Kiwicon](https://www.kiwicon.org/)
