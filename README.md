@@ -23,6 +23,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | October  | Melbourne, Victoria, Australia     | [Ruxcon](https://ruxcon.org.au/) - Unconfirmed |
 | October  | Christchurch, New Zealand          | [CHCon](https://2018.chcon.nz/) |
 | October  | Melbourne, Australia               | [AISA Cybercon](https://cyberconference.com.au/) |
+| October  | Indore, India                      | [Hakon India](http://www.hakonindia.org/) |
 | November | Wellington, New Zealand            | [Kiwicon](https://www.kiwicon.org/) |
 | December | Perth, Western Australia, Australia| [WACTF](https://capture.tf/) |
 
@@ -61,6 +62,9 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 ## India
 ### Bangalore
 - [Nullcon](https://nullcon.net)
+### Indore
+- [Hakon](http://www.hakonindia.org/)
+
 ## New Zealand
 ### Wellington
 - [Kiwicon](https://www.kiwicon.org/)
