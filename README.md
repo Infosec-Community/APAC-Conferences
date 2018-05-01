@@ -14,6 +14,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | April    | Canberra, ACT, Australia           | [BSides Canberra](http://www.bsidesau.com.au/) |
 | April    | Canberra, ACT, Australia           | [ACSC](https://acsc2018.com.au/) |
 | May      | Sunshine Coast, Queensland, Australia | [TuskCon](http://tuskcon.org/) |
+| May      | Singapore, Singapore               | [Infosec in the City](https://www.infosec-city.com/) |
 | May      | Gold Coast, Queensland, Australia  | [AusCERT](https://www.auscert.org.au/events/2018-05-29-auscert2018-17th-annual-auscert-cyber-security-conference) |
 | June     | Bangalore, India                   | [Nullcon](https://nullcon.net) |
 | August   | Singapore, Singapore               | [HITB GSEC](https://gsec.hitb.org/) |
