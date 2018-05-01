@@ -77,3 +77,4 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 ### Singapore
 - [Blackhat Asia](https://www.blackhat.com/asia-18/)
 - [HITB GSEC](https://gsec.hitb.org/)
+- [Infosec in the City](https://www.infosec-city.com/)
