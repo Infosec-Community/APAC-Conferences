@@ -16,6 +16,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | May      | Sunshine Coast, Queensland, Australia | [TuskCon](http://tuskcon.org/) | 30-40 |
 | May      | Singapore, Singapore               | [Infosec in the City](https://www.infosec-city.com/) | Unknown |
 | May      | Gold Coast, Queensland, Australia  | [AusCERT](https://www.auscert.org.au/events/2018-05-29-auscert2018-17th-annual-auscert-cyber-security-conference) | 700 |
+| June     | Melbourne, Australia               | [OzSecCon](https://ozseccon.com/) | Unknown |
 | June     | Bangalore, India                   | [Nullcon](https://nullcon.net) | Unknown |
 | August   | Singapore, Singapore               | [HITB GSEC](https://gsec.hitb.org/) | Unknown |
 | September| Sydney, NSW, Australia             | [PlatypusCon](https://letsjusthackshit.org/) | Unknown |
@@ -25,7 +26,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | October  | Christchurch, New Zealand          | [CHCon](https://2018.chcon.nz/) | Unknown |
 | October  | Melbourne, Australia               | [AISA Cybercon](https://cyberconference.com.au/) | Unknown |
 | October  | Indore, India                      | [Hakon India](http://www.hakonindia.org/) | Unknown |
-| November | Wellington, New Zealand            | [Kiwicon](https://www.kiwicon.org/) | Unknown |
+| November | Wellington, New Zealand            | [Kiwicon](https://www.kiwicon.org/) | 2048 |
 | December | Perth, Western Australia, Australia| [WACTF](https://capture.tf/) | Unknown |
 
 * Approximate number of attendees is forecasted based on available tickets for a year, or the number of tickets sold in the previous year the event ran. Numbers may not be entirely accurate as there can be large fluctations year on year.
