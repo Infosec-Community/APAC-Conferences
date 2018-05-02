@@ -8,7 +8,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | Month    | Location                           | Conference | Approx. Attendees* |
 |----------|------------------------------------|-------------|-------------|
 | January  | Melbourne, Victoria, Australia     | [BSides Melbourne](https://www.bsidesmelbourne.com/) | New Conference |
-| February | Brisbane, Queensland, Australia    | [CrikeyCon](https://www.crikeycon.com/) | Unknown |
+| February | Brisbane, Queensland, Australia    | [CrikeyCon](https://www.crikeycon.com/) | ~800 |
 | March    | Singapore, Singapore               | [Blackhat Asia](https://www.blackhat.com/asia-18/) | Unknown |
 | March    | Brisbane, Australia                | [BrisSEC](https://www.aisa.org.au/Public/Events/Conferences/BrisSEC_2018/BrisSEC18.aspx) | Unknown |
 | April    | Canberra, ACT, Australia           | [BSides Canberra](http://www.bsidesau.com.au/) | 1950 + volunteers and speakers |
@@ -28,7 +28,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | November | Wellington, New Zealand            | [Kiwicon](https://www.kiwicon.org/) | Unknown |
 | December | Perth, Western Australia, Australia| [WACTF](https://capture.tf/) | Unknown |
 
-* Approximate number of attendees is forecasted based on available tickets for a year, or the number of tickets sold in the previous year the event ran.
+* Approximate number of attendees is forecasted based on available tickets for a year, or the number of tickets sold in the previous year the event ran. Numbers may not be entirely accurate as there can be large fluctations year on year.
 
 # Conferences by Region
 
