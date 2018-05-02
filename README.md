@@ -18,7 +18,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | June     | Melbourne, Australia               | [OzSecCon](https://ozseccon.com/) | Unknown |
 | June     | Bangalore, India                   | [Nullcon](https://nullcon.net) | Unknown |
 | August   | Singapore, Singapore               | [HITB GSEC](https://gsec.hitb.org/) | Unknown |
-| September| Sydney, NSW, Australia             | [PlatypusCon](https://letsjusthackshit.org/) | Unknown |
+| September| Sydney, NSW, Australia             | [PlatypusCon](https://letsjusthackshit.org/) | ~200 |
 | September| Perth, WA, Australia               | [BSides Perth](https://bsidesperth.com.au/) | Unknown |
 | September| Sydney, NSW, Australia             | [Nullcon](https://nullcon.net) |Unknown |
 | October  | Melbourne, Victoria, Australia     | [Ruxcon](https://ruxcon.org.au/) - Unconfirmed | Unknown |
