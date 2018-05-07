@@ -28,6 +28,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | October  | Melbourne, Victoria, Australia     | [OWASP AppSec Day](https://appsecday.io/) | Unknown |
 | November | Wellington, New Zealand            | [Kiwicon](https://www.kiwicon.org/) | 2048 |
 | December | Perth, Western Australia, Australia| [WACTF](https://capture.tf/) | Unknown |
+| December | Adelaide, South Australia, Australia | [Kangacrypt](https://kangacrypt.info) | Unknown - new conference |
 
 * Approximate number of attendees is forecasted based on available tickets for a year, or the number of tickets sold in the previous year the event ran. Numbers may not be entirely accurate as there can be large fluctations year on year.
 
@@ -59,6 +60,10 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 #### Canberra
 - [BSides Canberra](http://www.bsidesau.com.au/)
 - [ACSC](https://acsc2018.com.au/)
+
+### South Australia
+#### Adelaide
+- [Kangacrypt](https://kangacrypt.info)
 
 ### Western Australia
 #### Perth
