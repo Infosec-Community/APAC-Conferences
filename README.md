@@ -50,13 +50,16 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 - [Ruxcon](https://ruxcon.org.au/) - Unconfirmed
 - [OWASP AppSec Day](https://appsecday.io/)
 - [IoT Authentication](http://www.authiot2018.conferences.academy/)
+
 ### Queensland
 #### Brisbane
 - [BrisSEC](https://www.aisa.org.au/Public/Events/Conferences/BrisSEC_2018/BrisSEC18.aspx)
 - [CrikeyCon](https://www.crikeycon.com/)
 - [Asiacrypt](https://asiacrypt.iacr.org/2018/)
+
 #### Sunshine Coast
 - [TuskCon](http://tuskcon.org/)
+
 #### Gold Coast
 - [AusCert](https://www.auscert.org.au/events/2018-05-29-auscert2018-17th-annual-auscert-cyber-security-conference)
 
@@ -77,6 +80,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 ## India
 ### Bangalore
 - [Nullcon](https://nullcon.net)
+
 ### Indore
 - [Hakon](http://www.hakonindia.org/)
 
