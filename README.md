@@ -22,6 +22,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | September| Sydney, NSW, Australia             | [PlatypusCon](https://letsjusthackshit.org/) | ~200 |
 | September| Perth, WA, Australia               | [BSides Perth](https://bsidesperth.com.au/) | Unknown |
 | September| Sydney, NSW, Australia             | [Nullcon](https://nullcon.net) |Unknown |
+| October  | Melbourne, Victoria, Australia     | [CyberConference - AISA](https://cyberconference.com.au/) | Unknown |
 | October  | Melbourne, Victoria, Australia     | [Ruxcon](https://ruxcon.org.au/) - Unconfirmed | Unknown |
 | October  | Christchurch, New Zealand          | [CHCon](https://2018.chcon.nz/) | Unknown |
 | October  | Melbourne, Australia               | [AISA Cybercon](https://cyberconference.com.au/) | Unknown |
@@ -52,6 +53,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 - [Ruxcon](https://ruxcon.org.au/) - Unconfirmed
 - [OWASP AppSec Day](https://appsecday.io/)
 - [IoT Authentication](http://www.authiot2018.conferences.academy/)
+- [CyberConference - AISA](https://cyberconference.com.au/)
 
 ### Queensland
 #### Brisbane
