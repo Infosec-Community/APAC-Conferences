@@ -18,6 +18,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | May      | Singapore, Singapore               | [Infosec in the City](https://www.infosec-city.com/) | Unknown |
 | May      | Gold Coast, Queensland, Australia  | [AusCERT](https://www.auscert.org.au/events/2018-05-29-auscert2018-17th-annual-auscert-cyber-security-conference) | 700 |
 | June     | Melbourne, Australia               | [OzSecCon](https://ozseccon.com/) | Unknown |
+| June     | Brisbane, Australia                | [BSides Brisbane](https://bsidesbrisbane.com/) | ~450 (New Conference) |
 | August   | Singapore, Singapore               | [HITB GSEC](https://gsec.hitb.org/) | Unknown |
 | September| Sydney, NSW, Australia             | [PlatypusCon](https://letsjusthackshit.org/) | ~200 |
 | September| Perth, WA, Australia               | [BSides Perth](https://bsidesperth.com.au/) | ~280 |
@@ -57,6 +58,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 - [BrisSEC](https://www.aisa.org.au/Public/Events/Conferences/BrisSEC_2018/BrisSEC18.aspx)
 - [CrikeyCon](https://www.crikeycon.com/)
 - [Asiacrypt](https://asiacrypt.iacr.org/2018/)
+- [BSides Brisbane](https://bsidesbrisbane.com/)
 
 #### Sunshine Coast
 - [TuskCon](http://tuskcon.org/)
