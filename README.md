@@ -7,11 +7,11 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 # Conferences by Month
 | Month    | Location                           | Conference | Approx. Attendees* |
 |----------|------------------------------------|-------------|-------------|
-| February | Brisbane, Queensland, Australia    | [CrikeyCon](https://www.crikeycon.com/) | ~800 |
 | February | Melbourne, Victoria, Australia    | [BSides Melbourne](https://www.bsidesmelbourne.com/) | Unknown - new conference, 150~ |
 | March    | Goa, India                         | [Nullcon](https://nullcon.net) | Unknown |
 | March    | Singapore, Singapore               | [Blackhat Asia](https://www.blackhat.com/asia-18/) | Unknown |
 | March    | Brisbane, Australia                | [BrisSEC](https://www.aisa.org.au/Public/Events/Conferences/BrisSEC_2018/BrisSEC18.aspx) | Unknown |
+| April | Brisbane, Queensland, Australia    | [CrikeyCon](https://www.crikeycon.com/) | ~800 |
 | April    | Canberra, ACT, Australia           | [BSides Canberra](http://www.bsidesau.com.au/) | 1950 + volunteers and speakers |
 | April    | Canberra, ACT, Australia           | [ACSC](https://acsc2018.com.au/) | ~1200 |
 | May      | Sunshine Coast, Queensland, Australia | [TuskCon](http://tuskcon.org/) | 30-40 |
