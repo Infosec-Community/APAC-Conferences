@@ -18,6 +18,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | May      | Sunshine Coast, Queensland, Australia | [TuskCon](http://tuskcon.org/) | 30-40 |
 | May      | Singapore, Singapore               | [Infosec in the City](https://www.infosec-city.com/) | Unknown |
 | May      | Gold Coast, Queensland, Australia  | [AusCERT](https://www.auscert.org.au/events/2018-05-29-auscert2018-17th-annual-auscert-cyber-security-conference) | 700 |
+| May      | Hong Kong, China                   | [REVULN](https://revuln.com) | Unknown |
 | June     | Melbourne, Australia               | [OzSecCon](https://ozseccon.com/) | ~250 |
 | June     | Brisbane, Australia                | [BSides Brisbane](https://bsidesbrisbane.com/) | ~450 (New Conference) |
 | August   | Singapore, Singapore               | [HITB GSEC](https://gsec.hitb.org/) | Unknown |
@@ -114,3 +115,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 ## Nepal
 ### Kathmandu
 [Threat Con](https://threatcon.io/)
+
+## China
+### Hong Kong
+- [REVULN](https://revuln.com)
