@@ -19,6 +19,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | May      | Singapore, Singapore               | [Infosec in the City](https://www.infosec-city.com/) | Unknown |
 | May      | Gold Coast, Queensland, Australia  | [AusCERT](https://www.auscert.org.au/events/2018-05-29-auscert2018-17th-annual-auscert-cyber-security-conference) | 700 |
 | May      | Hong Kong, China                   | [REVULN](https://revuln.com) | Unknown |
+| May      | Perth, WA, Australia               | [WAHCon](https://wahckon.org.au/) | Unknown |
 | June     | Melbourne, Australia               | [OzSecCon](https://ozseccon.com/) | ~250 |
 | June     | Brisbane, Australia                | [BSides Brisbane](https://bsidesbrisbane.com/) | ~450 (New Conference) |
 | August   | Singapore, Singapore               | [HITB GSEC](https://gsec.hitb.org/) | Unknown |
@@ -28,8 +29,10 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | October  | Melbourne, Victoria, Australia     | [Ruxcon](https://ruxcon.org.au/) - Unconfirmed | Unknown |
 | October  | Christchurch, New Zealand          | [CHCon](https://2018.chcon.nz/) | Unknown |
 | October  | Indore, India                      | [Hakon India](http://www.hakonindia.org/) | Unknown |
-| October  | Melbourne, Victoria, Australia     | [OWASP AppSec Day](https://appsecday.io/) | ~650 |
+| October  | Perth, WA, Australia               | [ISACA SecureIT Conference](https://www.eventbrite.com.au/e/isaca-perth-secureit-conference-2018-tickets-46788136576#) |
+| October  | Melbourne, Victoria, Australia     | [OWASP AppSec Day](https://appsecday.io/) | ~1000 |
 | October  | Delhi, India     | [Bsides Delhi](https://bsidesdelhi.in/) | ~350-400 |
+| November | Melbounre, Victoria, Australia     | [Security Influence & Trust Summit](https://sitempowers.com/) |
 | November | Wellington, New Zealand            | [purplecon](https://purplecon.nz/#) | Unknown - new conference | 
 | November | Wellington, New Zealand            | [Kiwicon](https://www.kiwicon.org/) | 2048 |
 | November | Melbourne, Australia               | [IoT Authentication](http://www.authiot2018.conferences.academy/) | Unknown |
