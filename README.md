@@ -60,6 +60,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 - [IoT Authentication](http://www.authiot2018.conferences.academy/)
 - [CyberConference - AISA](https://cyberconference.com.au/)
 - [Security Influence & Trust Summit](https://sitempowers.com/)
+- [0xCC](https://www.0xcc.sh/)
 
 ### Queensland
 #### Brisbane
