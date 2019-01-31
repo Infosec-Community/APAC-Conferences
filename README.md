@@ -15,6 +15,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | March    | Tokyo, Japan                       | [TechNet Tokyo](https://afceatokyo.org/technet/) | 600-1000 |
 | April    | Canberra, ACT, Australia           | [ACSC](https://acsc2018.com.au/) | ~1200 |
 | April | Brisbane, Queensland, Australia    | [CrikeyCon](https://www.crikeycon.com/) | ~800 |
+| April | Melbourne, Victoria, Australia    | [0xCC](https://www.0xcc.sh/) | Unknown - New Conference |
 | May      | Sunshine Coast, Queensland, Australia | [TuskCon](http://tuskcon.org/) | 30-40 |
 | May      | Singapore, Singapore               | [Infosec in the City](https://www.infosec-city.com/) | Unknown |
 | May      | Gold Coast, Queensland, Australia  | [AusCERT](https://www.auscert.org.au/events/2018-05-29-auscert2018-17th-annual-auscert-cyber-security-conference) | 700 |
@@ -60,6 +61,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 - [IoT Authentication](http://www.authiot2018.conferences.academy/)
 - [CyberConference - AISA](https://cyberconference.com.au/)
 - [Security Influence & Trust Summit](https://sitempowers.com/)
+- [0xCC](https://www.0xcc.sh/)
 
 ### Queensland
 #### Brisbane
