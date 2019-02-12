@@ -34,7 +34,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | October  | Melbourne, Victoria, Australia     | [OWASP AppSec Day](https://appsecday.io/) | ~1000 |
 | October  | Delhi, India     | [Bsides Delhi](https://bsidesdelhi.in/) | ~350-400 |
 | October  | Kuala Lumpur, Malaysia             | [Nanosec Asia](https://www.nanosec.asia/) | ~200 |
-| November | Melbounre, Victoria, Australia     | [Security Influence & Trust Summit](https://sitempowers.com/) | ~100 |
+| November | Melbourne, Victoria, Australia     | [Security Influence & Trust Summit](https://sitempowers.com/) | ~100 |
 | November | Wellington, New Zealand            | [purplecon](https://purplecon.nz/#) | Unknown - new conference | 
 | November | Wellington, New Zealand            | [Kiwicon](https://www.kiwicon.org/) | 2048 |
 | November | Melbourne, Australia               | [IoT Authentication](http://www.authiot2018.conferences.academy/) | Unknown |
@@ -42,6 +42,8 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | December | Perth, Western Australia, Australia| [WACTF](https://capture.tf/) | ~200 |
 | December | Brisbane, Australia                | [Asiacrypt](https://asiacrypt.iacr.org/2018/) | Unknown |
 | December | Adelaide, South Australia, Australia | [Kangacrypt](https://kangacrypt.info) | Unknown - new conference |
+| December | Melbourne, Victoria, Australia     | [COSAC](https://cosac.net/) | Unknown |
+
 
 * Approximate number of attendees is forecasted based on available tickets for a year, or the number of tickets sold in the previous year the event ran. Numbers may not be entirely accurate as there can be large fluctations year on year.
 
@@ -63,6 +65,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 - [CyberConference - AISA](https://cyberconference.com.au/)
 - [Security Influence & Trust Summit](https://sitempowers.com/)
 - [0xCC](https://www.0xcc.sh/)
+- [COSAC](https://cosac.net/)
 
 ### Queensland
 #### Brisbane
