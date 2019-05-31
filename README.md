@@ -57,7 +57,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 #### Sydney
 - [BSides Sydney](http://bsidessydney.org/)
 - [PlatypusCon](https://letsjusthackshit.org/)
-- [MRE2019)(https://federation.edu.au/icsl/mre2019)
+- [MRE2019](https://federation.edu.au/icsl/mre2019)
 
 ### Victoria
 #### Melbourne
