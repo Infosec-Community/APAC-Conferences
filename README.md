@@ -23,7 +23,9 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | May      | Perth, WA, Australia               | [WAHCKon](https://wahckon.org.au/) | Unknown |
 | June     | Melbourne, Australia               | [OzSecCon](https://ozseccon.com/) | ~250 |
 | June     | Brisbane, Australia                | [BSides Brisbane](https://bsidesbrisbane.com/) | ~450 (New Conference) |
+| July     | Sydney, NSW, Australia                  | [MRE2019](https://federation.edu.au/icsl/mre2019) | Unknown |
 | August   | Singapore, Singapore               | [HITB GSEC](https://gsec.hitb.org/) | Unknown |
+| September| Sydney, NSW, Australia             | [BSides Sydney](http://bsidessydney.org/) | Unknown |
 | September| Sydney, NSW, Australia             | [PlatypusCon](https://letsjusthackshit.org/) | ~200 |
 | September| Perth, WA, Australia               | [BSides Perth](https://bsidesperth.com.au/) | ~280 |
 | September| Kochi, Kerala, India               | [c0c0n 12](https://www.c0c0n.org/) | ~2000 |
@@ -53,7 +55,9 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 ## Australia
 ### New South Wales
 #### Sydney
+- [BSides Sydney](http://bsidessydney.org/)
 - [PlatypusCon](https://letsjusthackshit.org/)
+- [MRE2019)(https://federation.edu.au/icsl/mre2019)
 
 ### Victoria
 #### Melbourne
