@@ -7,7 +7,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 # Conferences by Month
 | Month    | Location                           | Conference | Approx. Attendees* |
 |----------|------------------------------------|-------------|-------------|
-| February | Melbourne, Victoria, Australia     | [BSides Melbourne](https://www.bsidesmelbourne.com/) | Unknown - new conference, 150~ |
+| March    | Melbourne, Victoria, Australia     | [BSides Melbourne](https://www.bsidesmelbourne.com/) | 400-450 |
 | March    | Goa, India                         | [Nullcon](https://nullcon.net) | Unknown |
 | March    | Singapore, Singapore               | [Blackhat Asia](https://www.blackhat.com/asia-18/) | Unknown |
 | March    | Brisbane, Australia                | [BrisSEC](https://www.aisa.org.au/Public/Events/Conferences/BrisSEC_2018/BrisSEC18.aspx) | Unknown |
@@ -16,14 +16,14 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | April    | Canberra, ACT, Australia           | [ACSC](https://acsc2018.com.au/) | ~1200 |
 | April    | Brisbane, Queensland, Australia    | [CrikeyCon](https://www.crikeycon.com/) | ~800 |
 | April    | Melbourne, Victoria, Australia     | [0xCC](https://www.0xcc.sh/) | Unknown - New Conference |
-| May      | Sunshine Coast, Queensland, Australia | [TuskCon](http://tuskcon.org/) | 30-40 |
+| May      | Sunshine Coast, Queensland, Australia | [TuskCon](http://tuskcon.org/) | 50-60 |
 | May      | Singapore, Singapore               | [Infosec in the City](https://www.infosec-city.com/) | Unknown |
-| May      | Gold Coast, Queensland, Australia  | [AusCERT](https://www.auscert.org.au/events/2018-05-29-auscert2018-17th-annual-auscert-cyber-security-conference) | 700 |
 | May      | Hong Kong, China                   | [REVULN](https://revuln.com) | Unknown |
 | May      | Perth, WA, Australia               | [WAHCKon](https://wahckon.org.au/) | Unknown |
 | June     | Melbourne, Australia               | [OzSecCon](https://ozseccon.com/) | ~250 |
+| June     | Gold Coast, Queensland, Australia  | [AusCERT](https://www.auscert.org.au/events/2018-05-29-auscert2018-17th-annual-auscert-cyber-security-conference) | 700 |
 | June     | Brisbane, Australia                | [BSides Brisbane](https://bsidesbrisbane.com/) | ~450 (New Conference) |
-| July     | Sydney, NSW, Australia                  | [MRE2019](https://federation.edu.au/icsl/mre2019) | Unknown |
+| July     | Sydney, NSW, Australia             | [MRE2019](https://federation.edu.au/icsl/mre2019) | Unknown |
 | August   | Singapore, Singapore               | [HITB GSEC](https://gsec.hitb.org/) | Unknown |
 | September| Sydney, NSW, Australia             | [BSides Sydney](http://bsidessydney.org/) | Unknown |
 | September| Sydney, NSW, Australia             | [PlatypusCon](https://letsjusthackshit.org/) | ~200 |
@@ -31,7 +31,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | September| Kochi, Kerala, India               | [c0c0n 12](https://www.c0c0n.org/) | ~2000 |
 | October  | Melbourne, Victoria, Australia     | [CyberConference - AISA](https://cyberconference.com.au/) | Unknown |
 | October  | Melbourne, Victoria, Australia     | [Ruxcon](https://ruxcon.org.au/) - Unconfirmed | Unknown |
-| October  | Christchurch, New Zealand          | [CHCon](https://2018.chcon.nz/) | Unknown |
+| October  | Christchurch, New Zealand          | [CHCon](https://2019.chcon.nz/) | Unknown |
 | October  | Wellington, New Zealand            | [Kawaiicon](https://kawaiicon.org/) | ~1000 |
 | October  | Indore, India                      | [Hakon India](http://www.hakonindia.org/) | Unknown |
 | October  | Perth, WA, Australia               | [ISACA SecureIT Conference](https://www.eventbrite.com.au/e/isaca-perth-secureit-conference-2018-tickets-46788136576#) |
