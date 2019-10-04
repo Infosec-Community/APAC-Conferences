@@ -7,6 +7,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 # Conferences by Month
 | Month    | Location                           | Conference | Approx. Attendees* |
 |----------|------------------------------------|-------------|-------------|
+| February | Melbourne, Victoria, Australia     | [Kids Securiday](https://www.securiday.com/) | ~100-250 |
 | March    | Melbourne, Victoria, Australia     | [BSides Melbourne](https://www.bsidesmelbourne.com/) | 400-450 |
 | March    | Goa, India                         | [Nullcon](https://nullcon.net) | Unknown |
 | March    | Singapore, Singapore               | [Blackhat Asia](https://www.blackhat.com/asia-18/) | Unknown |
@@ -16,6 +17,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | April    | Canberra, ACT, Australia           | [ACSC](https://acsc2018.com.au/) | ~1200 |
 | April    | Brisbane, Queensland, Australia    | [CrikeyCon](https://www.crikeycon.com/) | ~800 |
 | April    | Melbourne, Victoria, Australia     | [0xCC](https://www.0xcc.sh/) | Unknown - New Conference |
+| May      | Sydney, NSW, Australia             | [Kids Securiday](https://www.securiday.com/) | ~100-250 |
 | May      | Sunshine Coast, Queensland, Australia | [TuskCon](http://tuskcon.org/) | 50-60 |
 | May      | Singapore, Singapore               | [Infosec in the City](https://www.infosec-city.com/) | Unknown |
 | May      | Hong Kong, China                   | [REVULN](https://revuln.com) | Unknown |
@@ -24,6 +26,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | June     | Gold Coast, Queensland, Australia  | [AusCERT](https://www.auscert.org.au/events/2018-05-29-auscert2018-17th-annual-auscert-cyber-security-conference) | 700 |
 | June     | Brisbane, Australia                | [BSides Brisbane](https://bsidesbrisbane.com/) | ~450 (New Conference) |
 | July     | Sydney, NSW, Australia             | [MRE2019](https://federation.edu.au/icsl/mre2019) | Unknown |
+| August | Canberra, ACT, Australia             | [Kids Securiday](https://www.securiday.com/) | ~100-250 |
 | August   | Singapore, Singapore               | [HITB GSEC](https://gsec.hitb.org/) | Unknown |
 | September| Sydney, NSW, Australia             | [BSides Sydney](http://bsidessydney.org/) | Unknown |
 | September| Perth, WA, Australia               | [BSides Perth](https://bsidesperth.com.au/) | ~280 |
@@ -58,6 +61,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 - [BSides Sydney](http://bsidessydney.org/)
 - [PlatypusCon](https://letsjusthackshit.org/)
 - [MRE2019](https://federation.edu.au/icsl/mre2019)
+- [Kids Securiday](https://www.securiday.com/)
 
 ### Victoria
 #### Melbourne
@@ -71,6 +75,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 - [Security Influence & Trust Summit](https://sitempowers.com/)
 - [0xCC](https://www.0xcc.sh/)
 - [COSAC](https://cosac.net/)
+- [Kids Securiday](https://www.securiday.com/)
 
 ### Queensland
 #### Brisbane
@@ -89,6 +94,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 #### Canberra
 - [BSides Canberra](http://www.bsidesau.com.au/)
 - [ACSC](https://acsc2018.com.au/)
+- [Kids Securiday](https://www.securiday.com/)
 
 ### South Australia
 #### Adelaide
