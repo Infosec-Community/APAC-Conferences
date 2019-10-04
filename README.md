@@ -121,6 +121,9 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 ### Delhi
 - [Bsides Delhi](https://bsidesdelhi.in/)
 
+### Ahmedabad
+- [Bsides Ahmedabad](https://www.bsidesahmedabad.in/)
+
 ## New Zealand
 ### Wellington
 - [Kiwicon](https://www.kiwicon.org/)
