@@ -44,6 +44,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | November | Wellington, New Zealand            | [purplecon](https://purplecon.nz/#) | Unknown - new conference | 
 | November | Wellington, New Zealand            | [Kiwicon](https://www.kiwicon.org/) | 2048 |
 | November | Melbourne, Australia               | [IoT Authentication](http://www.authiot2018.conferences.academy/) | Unknown |
+| November | Ahmedabad, India                   | [Bsides Ahmedabad](https://www.bsidesahmedabad.in/) | Unknown |
 | November | Kathmandu, Nepal                   | [Threat Con](https://threatcon.io/) | Unknown |
 | December | Perth, Western Australia, Australia| [WACTF](https://capture.tf/) | ~200 |
 | December | Brisbane, Australia                | [Asiacrypt](https://asiacrypt.iacr.org/2018/) | Unknown |
@@ -119,6 +120,9 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 
 ### Delhi
 - [Bsides Delhi](https://bsidesdelhi.in/)
+
+### Ahmedabad
+- [Bsides Ahmedabad](https://www.bsidesahmedabad.in/)
 
 ## New Zealand
 ### Wellington
