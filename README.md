@@ -8,6 +8,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | Month    | Location                           | Conference | Approx. Attendees* |
 |----------|------------------------------------|-------------|-------------|
 | February | Melbourne, Victoria, Australia     | [Kids Securiday](https://www.securiday.com/) | ~100-250 |
+| February | Perth, WA, Australia               | [WAHCKon](https://wahckon.org.au/) | ~350 |
 | March    | Melbourne, Victoria, Australia     | [BSides Melbourne](https://www.bsidesmelbourne.com/) | 400-450 |
 | March    | Goa, India                         | [Nullcon](https://nullcon.net) | Unknown |
 | March    | Singapore, Singapore               | [Blackhat Asia](https://www.blackhat.com/asia-18/) | Unknown |
@@ -20,7 +21,6 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | May      | Sunshine Coast, Queensland, Australia | [TuskCon](http://tuskcon.org/) | 50-60 |
 | May      | Singapore, Singapore               | [Infosec in the City](https://www.infosec-city.com/) | Unknown |
 | May      | Hong Kong, China                   | [REVULN](https://revuln.com) | Unknown |
-| May      | Perth, WA, Australia               | [WAHCKon](https://wahckon.org.au/) | Unknown |
 | June     | Melbourne, Australia               | [OzSecCon](https://ozseccon.com/) | ~250 |
 | June     | Gold Coast, Queensland, Australia  | [AusCERT](https://www.auscert.org.au/events/2018-05-29-auscert2018-17th-annual-auscert-cyber-security-conference) | 700 |
 | June     | Brisbane, Australia                | [BSides Brisbane](https://bsidesbrisbane.com/) | ~450 (New Conference) |
