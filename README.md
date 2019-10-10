@@ -69,7 +69,6 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 - [AISA Cybercon](https://cyberconference.com.au/)
 - [BSides Melbourne](https://www.bsidesmelbourne.com/)
 - [OzSecCon](https://ozseccon.com/)
-- [Ruxcon](https://ruxcon.org.au/) - Unconfirmed
 - [OWASP AppSec Day](https://appsecday.io/)
 - [IoT Authentication](http://www.authiot2018.conferences.academy/)
 - [CyberConference - AISA](https://cyberconference.com.au/)
