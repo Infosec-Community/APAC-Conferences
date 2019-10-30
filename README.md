@@ -3,6 +3,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 
 [![Twitter](https://img.shields.io/badge/twitter-@hakluke-blue.svg)](https://twitter.com/hakluke)
 [![Twitter](https://img.shields.io/badge/twitter-@codingo__-blue.svg)](https://twitter.com/codingo_)
+[![Twitter](https://img.shields.io/badge/twitter-@hellodanielting-blue.svg)](https://twitter.com/hellodanielting)
 
 # Conferences by Month
 | Month    | Location                           | Conference | Approx. Attendees* |
