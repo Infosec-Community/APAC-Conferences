@@ -32,6 +32,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | September| Perth, WA, Australia               | [BSides Perth](https://bsidesperth.com.au/) | ~280 |
 | September| Kochi, Kerala, India               | [c0c0n 12](https://www.c0c0n.org/) | ~2000 |
 | September| Tagaytay, Cavite, Philippines      | [ROOTCON](https://www.rootcon.org/) | Unknown |
+| October  | Tokyo, Japan                       | [BSides Tokyo](https://bsides.tokyo/en/) | Unknown |
 | October  | Melbourne, Victoria, Australia     | [CyberConference - AISA](https://cyberconference.com.au/) | Unknown |
 | October  | Christchurch, New Zealand          | [CHCon](https://2019.chcon.nz/) | Unknown |
 | October  | Wellington, New Zealand            | [Kawaiicon](https://kawaiicon.org/) | ~1000 |
@@ -144,6 +145,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 
 ## Japan
 ### Tokyo
+[BSides Tokyo](https://bsides.tokyo/en/)
 [TechNet Tokyo](https://afceatokyo.org/technet/)
 
 ## Nepal
