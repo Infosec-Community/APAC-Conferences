@@ -3,6 +3,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 
 [![Twitter](https://img.shields.io/badge/twitter-@hakluke-blue.svg)](https://twitter.com/hakluke)
 [![Twitter](https://img.shields.io/badge/twitter-@codingo__-blue.svg)](https://twitter.com/codingo_)
+[![Twitter](https://img.shields.io/badge/twitter-@hellodanielting-blue.svg)](https://twitter.com/hellodanielting)
 
 # Conferences by Month
 | Month    | Location                           | Conference | Approx. Attendees* |
@@ -32,7 +33,6 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | September| Kochi, Kerala, India               | [c0c0n 12](https://www.c0c0n.org/) | ~2000 |
 | September| Tagaytay, Cavite, Philippines      | [ROOTCON](https://www.rootcon.org/) | Unknown |
 | October  | Melbourne, Victoria, Australia     | [CyberConference - AISA](https://cyberconference.com.au/) | Unknown |
-| October  | Melbourne, Victoria, Australia     | [Ruxcon](https://ruxcon.org.au/) - Unconfirmed | Unknown |
 | October  | Christchurch, New Zealand          | [CHCon](https://2019.chcon.nz/) | Unknown |
 | October  | Wellington, New Zealand            | [Kawaiicon](https://kawaiicon.org/) | ~1000 |
 | October  | Indore, India                      | [Hakon India](http://www.hakonindia.org/) | Unknown |
@@ -69,7 +69,6 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 - [AISA Cybercon](https://cyberconference.com.au/)
 - [BSides Melbourne](https://www.bsidesmelbourne.com/)
 - [OzSecCon](https://ozseccon.com/)
-- [Ruxcon](https://ruxcon.org.au/) - Unconfirmed
 - [OWASP AppSec Day](https://appsecday.io/)
 - [IoT Authentication](http://www.authiot2018.conferences.academy/)
 - [CyberConference - AISA](https://cyberconference.com.au/)
