@@ -145,12 +145,12 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 
 ## Japan
 ### Tokyo
-[BSides Tokyo](https://bsides.tokyo/en/)
-[TechNet Tokyo](https://afceatokyo.org/technet/)
+- [BSides Tokyo](https://bsides.tokyo/en/)
+- [TechNet Tokyo](https://afceatokyo.org/technet/)
 
 ## Nepal
 ### Kathmandu
-[Threat Con](https://threatcon.io/)
+- [Threat Con](https://threatcon.io/)
 
 ## China
 ### Hong Kong
