@@ -37,17 +37,16 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | October  | Christchurch, New Zealand          | [CHCon](https://2019.chcon.nz/) | Unknown |
 | October  | Wellington, New Zealand            | [Kawaiicon](https://kawaiicon.org/) | ~1000 |
 | October  | Indore, India                      | [Hakon India](http://www.hakonindia.org/) | Unknown |
-| October  | Perth, WA, Australia               | [ISACA SecureIT Conference](https://www.eventbrite.com.au/e/isaca-perth-secureit-conference-2018-tickets-46788136576#) |
+| October  | Perth, WA, Australia               | [ISACA SecureIT Conference](https://engage.isaca.org/perthchapter/events/recentcommunityeventsdashboard) |
 | October  | Delhi, India                       | [Bsides Delhi](https://bsidesdelhi.in/) | ~350-400 |
 | October  | Kuala Lumpur, Malaysia             | [Nanosec Asia](https://www.nanosec.asia/) | ~200 |
 | November | Melbourne, Victoria, Australia     | [OWASP AppSec Day](https://appsecday.io/) | ~1000 |
 | November | Melbourne, Victoria, Australia     | [Security Influence & Trust Summit](https://sitempowers.com/) | ~100 |
 | November | Wellington, New Zealand            | [purplecon](https://purplecon.nz/#) | Unknown - new conference | 
-| November | Wellington, New Zealand            | [Kiwicon](https://www.kiwicon.org/) | 2048 |
 | November | Melbourne, Australia               | [IoT Authentication](http://www.authiot2018.conferences.academy/) | Unknown |
 | November | Ahmedabad, India                   | [Bsides Ahmedabad](https://www.bsidesahmedabad.in/) | Unknown |
 | November | Kathmandu, Nepal                   | [Threat Con](https://threatcon.io/) | Unknown |
-| December | Perth, Western Australia, Australia| [WACTF](https://capture.tf/) | ~200 |
+| December | Perth, Western Australia, Australia| [WACTF](https://capture.tf/) | ~230 |
 | December | Brisbane, Australia                | [Asiacrypt](https://asiacrypt.iacr.org/2018/) | Unknown |
 | December | Adelaide, South Australia, Australia | [Kangacrypt](https://kangacrypt.info) | Unknown - new conference |
 | December | Melbourne, Victoria, Australia     | [COSAC](https://cosac.net/) | Unknown |
@@ -105,7 +104,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 - [BSides Perth](https://bsidesperth.com.au/)
 - [WACTF](https://capture.tf/)
 - [WAHCKon](https://wahckon.org.au/)
-- [ISACA SecureIT Conference](https://www.eventbrite.com.au/e/isaca-perth-secureit-conference-2018-tickets-46788136576#)
+- [ISACA SecureIT Conference](https://engage.isaca.org/perthchapter/events/recentcommunityeventsdashboard)
 
 ## India
 ### Goa
@@ -125,7 +124,6 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 
 ## New Zealand
 ### Wellington
-- [Kiwicon](https://www.kiwicon.org/)
 - [purplecon](https://purplecon.nz/#)
 - [Kawaiicon](https://kawaiicon.org/)
 
