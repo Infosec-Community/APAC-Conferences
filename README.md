@@ -17,6 +17,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | March    | Tokyo, Japan                       | [TechNet Tokyo](https://afceatokyo.org/technet/) | 600-1000 |
 | April    | Brisbane, Queensland, Australia    | [CrikeyCon](https://www.crikeycon.com/) | ~800 |
 | April    | Melbourne, Victoria, Australia     | [0xCC](https://www.0xcc.sh/) | Unknown - New Conference |
+| April | Adelaide, South Australia, Australia | [SecTalks Halfday](https://sessionize.com/sectalks-halfday/) | Unknown - New Conference |
 | May      | Sydney, NSW, Australia             | [Kids Securiday](https://www.securiday.com/) | ~100-250 |
 | May      | Canberra, ACT, Australia           | [BSides Canberra](http://www.bsidesau.com.au/) | 1950 + volunteers and speakers |
 | May      | Sunshine Coast, Queensland, Australia | [TuskCon](http://tuskcon.org/) | 50-60 |
