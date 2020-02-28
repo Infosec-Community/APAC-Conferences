@@ -15,20 +15,20 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | March    | Singapore, Singapore               | [Blackhat Asia](https://www.blackhat.com/asia-18/) | Unknown |
 | March    | Brisbane, Australia                | [BrisSEC](https://www.aisa.org.au/Public/Events/Conferences/BrisSEC_2018/BrisSEC18.aspx) | Unknown |
 | March    | Tokyo, Japan                       | [TechNet Tokyo](https://afceatokyo.org/technet/) | 600-1000 |
-| April    | Brisbane, Queensland, Australia    | [CrikeyCon](https://www.crikeycon.com/) | ~800 |
-| April    | Melbourne, Victoria, Australia     | [0xCC](https://www.0xcc.sh/) | Unknown - New Conference |
 | April | Adelaide, South Australia, Australia | [SecTalks Halfday](https://sessionize.com/sectalks-halfday/) | Unknown - New Conference |
 | May      | Sydney, NSW, Australia             | [Kids Securiday](https://www.securiday.com/) | ~100-250 |
 | May      | Canberra, ACT, Australia           | [BSides Canberra](http://www.bsidesau.com.au/) | 1950 + volunteers and speakers |
 | May      | Sunshine Coast, Queensland, Australia | [TuskCon](http://tuskcon.org/) | 50-60 |
 | May      | Singapore, Singapore               | [Infosec in the City](https://www.infosec-city.com/) | Unknown |
 | May      | Hong Kong, China                   | [REVULN](https://revuln.com) | Unknown |
+| June     | Melbourne, Victoria, Australia     | [0xCC](https://www.0xcc.sh/) | Unknown - New Conference |
 | June     | Melbourne, Australia               | [OzSecCon](https://ozseccon.com/) | ~250 |
 | June     | Gold Coast, Queensland, Australia  | [AusCERT](https://www.auscert.org.au/events/2018-05-29-auscert2018-17th-annual-auscert-cyber-security-conference) | 700 |
 | June     | Brisbane, Australia                | [BSides Brisbane](https://bsidesbrisbane.com/) | ~450 (New Conference) |
 | July     | Sydney, NSW, Australia             | [MRE2020](https://federation.edu.au/icsl/mre2020) | ~300 |
 | August | Canberra, ACT, Australia             | [Kids Securiday](https://www.securiday.com/) | ~100-250 |
 | August   | Singapore, Singapore               | [HITB GSEC](https://gsec.hitb.org/) | Unknown |
+| August   | Brisbane, Queensland, Australia    | [CrikeyCon](https://www.crikeycon.com/) | ~800 |
 | September| Sydney, NSW, Australia             | [BSides Sydney](http://bsidessydney.org/) | Unknown |
 | September| Perth, WA, Australia               | [BSides Perth](https://bsidesperth.com.au/) | ~280 |
 | September| Kochi, Kerala, India               | [c0c0n 12](https://www.c0c0n.org/) | ~2000 |
@@ -36,11 +36,11 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | October  | Tokyo, Japan                       | [BSides Tokyo](https://bsides.tokyo/en/) | Unknown |
 | October  | Melbourne, Victoria, Australia     | [CyberConference - AISA](https://cyberconference.com.au/) | Unknown |
 | October  | Christchurch, New Zealand          | [CHCon](https://2019.chcon.nz/) | Unknown |
-| October  | Wellington, New Zealand            | [Kawaiicon](https://kawaiicon.org/) | ~1000 |
 | October  | Indore, India                      | [Hakon India](http://www.hakonindia.org/) | Unknown |
 | October  | Perth, WA, Australia               | [ISACA SecureIT Conference](https://engage.isaca.org/perthchapter/events/recentcommunityeventsdashboard) |
 | October  | Delhi, India                       | [Bsides Delhi](https://bsidesdelhi.in/) | ~350-400 |
 | October  | Kuala Lumpur, Malaysia             | [Nanosec Asia](https://www.nanosec.asia/) | ~200 |
+| November | Wellington, New Zealand            | [Kawaiicon](https://kawaiicon.org/) | ~1000 |
 | November | Melbourne, Victoria, Australia     | [OWASP AppSec Day](https://appsecday.io/) | ~1000 |
 | November | Melbourne, Victoria, Australia     | [Security Influence & Trust Summit](https://sitempowers.com/) | ~100 |
 | November | Wellington, New Zealand            | [purplecon](https://purplecon.nz/#) | Unknown - new conference | 
@@ -62,7 +62,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 #### Sydney
 - [BSides Sydney](http://bsidessydney.org/)
 - [MRE2020](https://federation.edu.au/icsl/mre2020)
-- [Kids Securiday](https://www.securiday.com/)
+- [Kids Securiday](https://www.securiday.com/)  
 
 ### Victoria
 #### Melbourne
