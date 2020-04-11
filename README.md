@@ -16,12 +16,13 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | March    | Brisbane, Australia                | [BrisSEC](https://www.aisa.org.au/Public/Events/Conferences/BrisSEC_2018/BrisSEC18.aspx) | Unknown |
 | March    | Tokyo, Japan                       | [TechNet Tokyo](https://afceatokyo.org/technet/) | 600-1000 |
 | April | Adelaide, South Australia, Australia | [SecTalks Halfday](https://sessionize.com/sectalks-halfday/) | Unknown - New Conference |
+| April    | Virtual, Australia                 | [ComfyCon Au](https://www.comfyconau.rocks/) | 300 |
 | May      | Sydney, NSW, Australia             | [Kids Securiday](https://www.securiday.com/) | ~100-250 |
 | May      | Canberra, ACT, Australia           | [BSides Canberra](http://www.bsidesau.com.au/) | 1950 + volunteers and speakers |
 | May      | Sunshine Coast, Queensland, Australia | [TuskCon](http://tuskcon.org/) | 50-60 |
 | May      | Singapore, Singapore               | [Infosec in the City](https://www.infosec-city.com/) | Unknown |
 | May      | Hong Kong, China                   | [REVULN](https://revuln.com) | Unknown |
-| June     | Melbourne, Victoria, Australia     | [0xCC](https://www.0xcc.sh/) | Unknown - New Conference |
+| June     | Melbourne, Victoria, Australia     | [0xCC](https://www.0xcc.sh/) | 200 |
 | June     | Melbourne, Australia               | [OzSecCon](https://ozseccon.com/) | ~250 |
 | June     | Gold Coast, Queensland, Australia  | [AusCERT](https://www.auscert.org.au/events/2018-05-29-auscert2018-17th-annual-auscert-cyber-security-conference) | 700 |
 | June     | Brisbane, Australia                | [BSides Brisbane](https://bsidesbrisbane.com/) | ~450 (New Conference) |
