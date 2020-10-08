@@ -46,6 +46,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | November | Melbourne, Victoria, Australia     | [Security Influence & Trust Summit](https://sitempowers.com/) | ~100 |
 | November | Wellington, New Zealand            | [purplecon](https://purplecon.nz/#) | Unknown - new conference | 
 | November | Melbourne, Australia               | [IoT Authentication](http://www.authiot2018.conferences.academy/) | Unknown |
+| November | Virtual, Australia                 | [ComfyCon Au (Summer Edition)](https://www.comfyconau.rocks/) | 300 |
 | November | Ahmedabad, India                   | [Bsides Ahmedabad](https://www.bsidesahmedabad.in/) | Unknown |
 | November | Kathmandu, Nepal                   | [Threat Con](https://threatcon.io/) | Unknown |
 | December | Perth, Western Australia, Australia| [WACTF](https://capture.tf/) | ~230 |
@@ -54,7 +55,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | December | Melbourne, Victoria, Australia     | [COSAC](https://cosac.net/) | Unknown |
 
 
-* Approximate number of attendees is forecasted based on available tickets for a year, or the number of tickets sold in the previous year the event ran. Numbers may not be entirely accurate as there can be large fluctations year on year.
+* Approximate number of attendees is forecasted based on available tickets for a year, or the number of tickets sold in the previous year the event ran. Numbers may not be entirely accurate as there can be large fluctuations year on year.
 
 # Conferences by Region
 
