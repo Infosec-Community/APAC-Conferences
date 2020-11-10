@@ -10,6 +10,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 |----------|------------------------------------|-------------|-------------|
 | February | Melbourne, Victoria, Australia     | [Kids Securiday](https://www.securiday.com/) | ~100-250 |
 | February | Perth, WA, Australia               | [WAHCKon](https://wahckon.org.au/) | ~350 |
+| March   | Brisbane, Queensland, Australia    | [CrikeyCon](https://www.crikeycon.com/) | ~800 |
 | March    | Melbourne, Victoria, Australia     | [BSides Melbourne](https://www.bsidesmelbourne.com/) | 400-450 |
 | March    | Goa, India                         | [Nullcon](https://nullcon.net) | Unknown |
 | March    | Singapore, Singapore               | [Blackhat Asia](https://www.blackhat.com/asia-18/) | Unknown |
@@ -29,7 +30,6 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | July     | Sydney, NSW, Australia             | [MRE2020](https://federation.edu.au/icsl/mre2020) | ~300 |
 | August | Canberra, ACT, Australia             | [Kids Securiday](https://www.securiday.com/) | ~100-250 |
 | August   | Singapore, Singapore               | [HITB GSEC](https://gsec.hitb.org/) | Unknown |
-| August   | Brisbane, Queensland, Australia    | [CrikeyCon](https://www.crikeycon.com/) | ~800 |
 | September| Sydney, NSW, Australia             | [BSides Sydney](http://bsidessydney.org/) | Unknown |
 | September| Perth, WA, Australia               | [BSides Perth](https://bsidesperth.com.au/) | ~280 |
 | September| Kochi, Kerala, India               | [c0c0n 12](https://www.c0c0n.org/) | ~2000 |
