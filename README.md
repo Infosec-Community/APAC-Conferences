@@ -40,8 +40,8 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | October  | Perth, WA, Australia               | [ISACA SecureIT Conference](https://engage.isaca.org/perthchapter/events/recentcommunityeventsdashboard) |
 | October  | Delhi, India                       | [Bsides Delhi](https://bsidesdelhi.in/) | ~350-400 |
 | October  | Kuala Lumpur, Malaysia             | [Nanosec Asia](https://www.nanosec.asia/) | ~200 |
-| November | Virtual, Australia                 | [ComfyCon Au](https://www.comfyconau.rocks/) | 300 |
 | November | Wellington, New Zealand            | [Kawaiicon](https://kawaiicon.org/) | ~1000 |
+| November | Virtual, Australia                 | [ComfyCon Au](https://www.comfyconau.rocks/) | 300 |
 | November | Melbourne, Victoria, Australia     | [OWASP AppSec Day](https://appsecday.io/) | ~1000 |
 | November | Melbourne, Victoria, Australia     | [Security Influence & Trust Summit](https://sitempowers.com/) | ~100 |
 | November | Wellington, New Zealand            | [purplecon](https://purplecon.nz/#) | Unknown - new conference | 
