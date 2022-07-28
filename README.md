@@ -10,13 +10,11 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 |----------|------------------------|------------|--------------------|------------|
 | February | Melbourne, VIC, AU     | [Kids Securiday](https://www.securiday.com/) | ~100-250 | |
 | February | Perth, WA, AU          | [WAHCKon](https://wahckon.org.au/) | ~350 | |
-| March    | Melbourne, VIC, AU     | [BSides Melbourne](https://www.bsidesmelbourne.com/) | 400-450 |
 | March    | Goa, India             | [Nullcon](https://nullcon.net) | Unknown |
 | March    | Brisbane, AU           | [BrisSEC](https://www.aisa.org.au/Public/Events/Conferences/BrisSEC_2018/BrisSEC18.aspx) | Unknown |
 | March    | Tokyo, Japan           | [TechNet Tokyo](https://afceatokyo.org/technet/) | 600-1000 |
 | April    | Adelaide, SA, AU       | [SecTalks Halfday](https://sessionize.com/sectalks-halfday/) | Unknown - New Conference |
 | May      | Sydney, NSW, AU        | [Kids Securiday](https://www.securiday.com/) | ~100-250 |
-| May      | Canberra, ACT, AU      | [BSides Canberra](http://www.bsidesau.com.au/) | 1950 + volunteers and speakers |
 | May      | Sunshine Coast, QLD, AU | [TuskCon](http://tuskcon.org/) | 50-60 |
 | May      | Singapore, Singapore   | [Infosec in the City](https://www.infosec-city.com/) | Unknown |
 | May      | Hong Kong, China       | [REVULN](https://revuln.com) | Unknown |
@@ -26,19 +24,20 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | June     | Gold Coast, QLD, AU    | [AusCERT](https://www.auscert.org.au/events/2018-05-29-auscert2018-17th-annual-auscert-cyber-security-conference) | 700 |
 | June     | Brisbane, AU           | [BSides Brisbane](https://bsidesbrisbane.com/) | ~450 (New Conference) |
 | July     | Sydney, NSW, AU        | [MRE2020](https://federation.edu.au/icsl/mre2020) | ~300 |
-| August   | Canberra, ACT, AU      | [Kids Securiday](https://www.securiday.com/) | ~100-250 |
+| August   | Canberra, ACT, AU      | [Kids Securiday](https://www.securiday.com/) | ~100-250 | August 27, 2022 |
 | August   | Singapore, Singapore   | [HITB GSEC](https://gsec.hitb.org/) | Unknown |
 | September| Brisbane, QLD, AU      | [CrikeyCon](https://www.crikeycon.com/) | ~800 | September 3, 2022 |
+| September| Melbourne, VIC, AU     | [BSides Melbourne](https://www.bsidesmelbourne.com/) | 400-450 | September 10-11, 2022 |
 | September| Sydney, NSW, AU        | [BSides Sydney](http://bsidessydney.org/) | Unknown |
-| September| Perth, WA, AU          | [BSides Perth](https://bsidesperth.com.au/) | ~280 |
 | September| Kochi, Kerala, India   | [c0c0n 12](https://www.c0c0n.org/) | ~2000 | September 21-24, 2022 |
 | September| Tagaytay, Cavite, Philippines      | [ROOTCON](https://www.rootcon.org/) | ~700-1000 | September 28-30, 2022 |
+| September| Canberra, ACT, AU      | [BSides Canberra](http://www.bsidesau.com.au/) | 1950 + volunteers and speakers | 28-30 September |
+| October  | Ahmedabad, India       | [Bsides Ahmedabad](https://www.bsidesahmedabad.in/) | Unknown | October 1, 2022 |
 | October  | Tokyo, Japan           | [BSides Tokyo](https://bsides.tokyo/en/) | Unknown |
 | October  | Melbourne, VIC, AU     | [CyberConference - AISA](https://cyberconference.com.au/) | Unknown | October 11-13, 2022 |
-| October  | Christchurch, NZ       | [CHCon](https://2019.chcon.nz/) | Unknown |
 | October  | Indore, India          | [Hakon India](http://www.hakonindia.org/) | Unknown |
-| October  | Perth, WA, AU          | [ISACA SecureIT Conference](https://engage.isaca.org/perthchapter/events/recentcommunityeventsdashboard) |
 | October  | Gold Coast, QLD, AU    | [BSides Gold Coast](http://www.bsidesgoldcoast.com/) | Unknown - New Conference | October 22, 2022 |
+| October  | Perth, WA, AU          | [ISACA SecureIT Conference](https://engage.isaca.org/perthchapter/events/recentcommunityeventsdashboard) | Unknown | October 27, 2022 |
 | October  | Delhi, India           | [Bsides Delhi](https://bsidesdelhi.in/) | ~350-400 |
 | October  | Kuala Lumpur, Malaysia | [Nanosec Asia](https://www.nanosec.asia/) | ~200 |
 | November | Wellington, NZ         | [Kawaiicon](https://kawaiicon.org/) | ~1000 |
@@ -48,8 +47,9 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | November | Wellington, NZ         | [purplecon](https://purplecon.nz/#) | Unknown - new conference | 
 | November | Melbourne, AU          | [IoT Authentication](http://www.authiot2018.conferences.academy/) | Unknown |
 | November | Virtual, AU            | [ComfyCon Au (Summer Edition)](https://www.comfyconau.rocks/) | 300 |
-| November | Ahmedabad, India       | [Bsides Ahmedabad](https://www.bsidesahmedabad.in/) | Unknown | October 1, 2022 |
+| November | Christchurch, NZ       | [CHCon](https://2022.chcon.nz/) | Unknown | November 24-26, 2022 |
 | November | Kathmandu, Nepal       | [Threat Con](https://threatcon.io/) | Unknown |
+| November | Perth, WA, AU          | [BSides Perth](https://bsidesperth.com.au/) | ~280 | 
 | December | Perth, Western Australia, AU | [WACTF](https://capture.tf/) | ~230 |
 | December | Taipei, Taiwan         | [Asiacrypt](https://asiacrypt.iacr.org/2022/) | Unknown | December 5-9, 2022 |
 | December | Adelaide, South AU, AU | [Kangacrypt](https://kangacrypt.info) | Unknown - new conference |
