@@ -55,7 +55,6 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | December | Adelaide, South Australia, Australia | [Kangacrypt](https://kangacrypt.info) | Unknown - new conference |
 | December | Melbourne, Victoria, Australia     | [COSAC](https://cosac.net/) | Unknown |
 
-
 * Approximate number of attendees is forecasted based on available tickets for a year, or the number of tickets sold in the previous year the event ran. Numbers may not be entirely accurate as there can be large fluctuations year on year.
 
 # Conferences by Region
