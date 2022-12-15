@@ -8,7 +8,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 # Conferences by Month
 | Month     | Location                      | Conference                                                                                                        | Approx. Attendees*             | Next Event            |
 | --------- | ----------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------ | --------------------- |
-| February  | Melbourne, VIC, AU            | [Kids Securiday](https://www.securiday.com/)                                                                      | ~100-250                       |                       |
+| January  | Melbourne, VIC, AU            | [Kids Securiday](https://www.securiday.com/)                                                                      | ~100-250                       | January 27, 2023                      |
 | February  | Perth, WA, AU                 | [WAHCKon](https://wahckon.org.au/)                                                                                | ~350                           |                       |
 | February  | Melbourne, VIC, AU            | [ICSL MRE Conference](https://federation.edu.au/icsl/icsl-conferences)                                            | ~90                            | February 20-21, 2023  |
 | March     | Goa, India                    | [Nullcon](https://nullcon.net)                                                                                    | Unknown                        |
