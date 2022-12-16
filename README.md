@@ -10,6 +10,7 @@ Last Updated: 15/12/2022
 # Conferences by Month
 | **Month** | **Next Conference Date** | **Location** | **Conference** | **Approx. Attendees*** |
 |---|---|---|---|---|
+| January | 05/01/2023-06/01/2023 | Singapore, Singapore | [SINCON / Infosec in the City](https://www.infosec-city.com/) | Unknown |
 | January | 27/01/2023 | Melbourne, Victoria, Australia | [Kids Securiday](https://www.securiday.com/) | ~100-250 |
 | February | 28/02/2023-02/03/2023 | Melbourne, Victoria, Australia | [COSAC APAC 2023](https://www.cosac.net/melbourne) | Unknown |
 | March | 20/03/2023-22/03/2023 | Melbourne, Victoria, Australia | [CyberConference - AISA](https://cyberconference.com.au/) | Unknown |
@@ -17,7 +18,6 @@ Last Updated: 15/12/2022
 | March | TBA | Melbourne, Victoria, Australia | [BSides Melbourne](https://www.bsidesmelbourne.com/) | 400-450 |
 | March | TBA | Sunshine Coast, Queensland, Australia | [TuskCon](http://tuskcon.org/) | 50 |
 | April | 21/04/2023 | Brisbane, Australia | [BrisSEC](https://www.aisa.org.au/Public/Events/Event_Display.aspx?EventKey=291c8df8-7ba0-4f55-967a-bf47a19aad0b&iSearchResult=true&WebsiteKey=f9fae671-69a2-4102-8f2f-cc24ed48d26c) | Unknown |
-| May | 05/01/2023-06/01/2023 | Singapore, Singapore | [Infosec in the City](https://www.infosec-city.com/) | Unknown |
 | May | 09/05/2023-12/05/2023 | Singapore, Singapore | [Blackhat Asia](https://www.blackhat.com/) | Unknown |
 | May | 09/05/2023-12/05/2023 | Gold Coast, Queensland, Australia | [AusCERT](https://auscert.org.au/category/events/events_conferences/) | 700 |
 | May | 12/05/2023-13/05/2023 | Melbourne, Victoria, Australia | [0xCC](https://www.0xcc.sh/) | 200 |
@@ -114,7 +114,7 @@ Last Updated: 15/12/2022
 ## Singapore
 ### Singapore
 - [Blackhat Asia](https://www.blackhat.com/)
-- [Infosec in the City](https://www.infosec-city.com/)
+- [SINCON / Infosec in the City](https://www.infosec-city.com/)
 
 ## Nepal
 ### Kathmandu
