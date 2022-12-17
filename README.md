@@ -11,6 +11,7 @@ Last Updated: 15/12/2022
 | **Month** | **Next Conference Date** | **Location** | **Conference** | **Approx. Attendees*** |
 |---|---|---|---|---|
 | January | 27/01/2023 | Melbourne, Victoria, Australia | [Kids Securiday](https://www.securiday.com/) | ~100-250 |
+| February | 20/02/2023-21/02/2023 | Melbourne, Victoria, Australia | [MRE2023](https://federation.edu.au/icsl/icsl-conferences/mre-2023) | 100 |
 | February | 28/02/2023-02/03/2023 | Melbourne, Victoria, Australia | [COSAC APAC 2023](https://www.cosac.net/melbourne) | Unknown |
 | March | 20/03/2023-22/03/2023 | Canberra, ACT, Australia | [AISA CyberCon Canberra](https://cyberconference.com.au/) | Unknown |
 | March | TBA - 2024 | Brisbane, Queensland, Australia | [CrikeyCon](https://www.crikeycon.com/) | ~800 |
@@ -25,7 +26,6 @@ Last Updated: 15/12/2022
 | June | mid-year 2023 | Melbourne, Victoria, Australia | [OzSecCon](https://ozseccon.com/) | ~250 |
 | June | TBA | Virtual, APAC | [DevSecCon24](https://www.devseccon.com/events) | ~1000 |
 | July | 15/07/2023 | Brisbane, Australia | [BSides Brisbane](https://bsidesbrisbane.com/) | ~450 (New Conference) |
-| July | 20/02/2023-21/02/2023 | Melbourne, Victoria, Australia | [MRE2023](https://federation.edu.au/icsl/icsl-conferences/mre-2023) | ~300 |
 | July | TBA | Wellington, New Zealand | [Kawaiicon](https://kawaiicon.org/) | ~1000 |
 | September | TBA | Virtual, Australia | [DownUnderCTF](https://downunderctf.com) | 4200 |
 | September | TBA | Goa, India | [Nullcon](https://nullcon.net) | Unknown |
