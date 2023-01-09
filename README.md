@@ -10,6 +10,7 @@ Last Updated: 15/12/2022
 # Conferences by Month
 | **Month** | **Next Conference Date** | **Location** | **Conference** | **Approx. Attendees*** |
 |---|---|---|---|---|
+| January | 05/01/2023-06/01/2023 | Singapore, Singapore | [SINCON / Infosec in the City](https://www.infosec-city.com/) | Unknown |
 | January | 27/01/2023 | Melbourne, Victoria, Australia | [Kids Securiday](https://www.securiday.com/) | ~100-250 |
 | February | 20/02/2023-21/02/2023 | Melbourne, Victoria, Australia | [MRE2023](https://federation.edu.au/icsl/icsl-conferences/mre-2023) | 100 |
 | February | 28/02/2023-02/03/2023 | Melbourne, Victoria, Australia | [COSAC APAC 2023](https://www.cosac.net/melbourne) | Unknown |
@@ -115,7 +116,7 @@ Last Updated: 15/12/2022
 ## Singapore
 ### Singapore
 - [Blackhat Asia](https://www.blackhat.com/)
-- [Infosec in the City](https://www.infosec-city.com/)
+- [SINCON / Infosec in the City](https://www.infosec-city.com/)
 
 ## Nepal
 ### Kathmandu
