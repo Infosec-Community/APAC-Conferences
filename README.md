@@ -27,7 +27,7 @@ Last Updated: 15/12/2022
 | June | mid-year 2023 | Melbourne, Victoria, Australia | [OzSecCon](https://ozseccon.com/) | ~250 |
 | June | TBA | Virtual, APAC | [DevSecCon24](https://www.devseccon.com/events) | ~1000 |
 | July | 15/07/2023 | Brisbane, Australia | [BSides Brisbane](https://bsidesbrisbane.com/) | ~450 (New Conference) |
-| July | TBA | Wellington, New Zealand | [Kawaiicon](https://kawaiicon.org/) | ~1000 |
+| July | TBA - 2024? | Wellington, New Zealand | [Kawaiicon](https://kawaiicon.org/) | ~1000 |
 | September | TBA | Virtual, Australia | [DownUnderCTF](https://downunderctf.com) | 4200 |
 | September | TBA | Goa, India | [Nullcon](https://nullcon.net) | Unknown |
 | September | TBA | Sydney, NSW, Australia | [CSECcon 2022 Sydney](http://cseccon.utscyber.org/) | ~200 |
