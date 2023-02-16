@@ -15,7 +15,7 @@ Last Updated: 15/12/2022
 | February | 20/02/2023-21/02/2023 | Melbourne, Victoria, Australia | [MRE2023](https://federation.edu.au/icsl/icsl-conferences/mre-2023) | 100 |
 | February | 28/02/2023-02/03/2023 | Melbourne, Victoria, Australia | [COSAC APAC 2023](https://www.cosac.net/melbourne) | Unknown |
 | March | 20/03/2023-22/03/2023 | Canberra, ACT, Australia | [AISA CyberCon Canberra](https://cyberconference.com.au/) | Unknown |
-| March | TBA - 2024 | Brisbane, Queensland, Australia | [CrikeyCon](https://www.crikeycon.com/) | ~800 |
+| March | 23/03/2024 | Brisbane, Queensland, Australia | [CrikeyCon](https://www.crikeycon.com/) | ~800 |
 | March | TBA | Melbourne, Victoria, Australia | [BSides Melbourne](https://www.bsidesmelbourne.com/) | 400-450 |
 | March | TBA | Sunshine Coast, Queensland, Australia | [TuskCon](http://tuskcon.org/) | 50 |
 | April | 21/04/2023 | Brisbane, Australia | [BrisSEC](https://www.aisa.org.au/Public/Events/Event_Display.aspx?EventKey=291c8df8-7ba0-4f55-967a-bf47a19aad0b&iSearchResult=true&WebsiteKey=f9fae671-69a2-4102-8f2f-cc24ed48d26c) | Unknown |
