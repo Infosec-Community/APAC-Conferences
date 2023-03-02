@@ -24,7 +24,7 @@ Last Updated: 15/12/2022
 | May | 09/05/2023-12/05/2023 | Singapore, Singapore | [Blackhat Asia](https://www.blackhat.com/) | Unknown |
 | May | 09/05/2023-12/05/2023 | Gold Coast, Queensland, Australia | [AusCERT](https://auscert.org.au/category/events/events_conferences/) | 700 |
 | May | 12/05/2023-13/05/2023 | Melbourne, Victoria, Australia | [0xCC](https://www.0xcc.sh/) | 200 |
-| June | mid-year 2023 | Melbourne, Victoria, Australia | [OzSecCon](https://ozseccon.com/) | ~250 |
+| June | mid-year 2024 | Melbourne, Victoria, Australia | [OzSecCon](https://ozseccon.com/) | ~250 |
 | June | TBA | Virtual, APAC | [DevSecCon24](https://www.devseccon.com/events) | ~1000 |
 | July | 15/07/2023 | Brisbane, Australia | [BSides Brisbane](https://bsidesbrisbane.com/) | ~450 (New Conference) |
 | July | TBA - 2024? | Wellington, New Zealand | [Kawaiicon](https://kawaiicon.org/) | ~1000 |
