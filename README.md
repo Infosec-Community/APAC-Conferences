@@ -34,7 +34,7 @@ Last Updated: 15/12/2022
 | September | TBA | Kochi, Kerala, India | [c0c0n 12](https://www.c0c0n.org/) | ~2000 |
 | September | 28/09/2023-30/09/2023 | Canberra, ACT, Australia | [BSides Canberra](http://www.bsidesau.com.au/) | 1950 + volunteers and speakers |
 | September | 27/09/2023-30/09/2023 | Tagaytay, Cavite, Philippines | [ROOTCON](https://www.rootcon.org/) | ~700-1000 |
-| October | 14/10/2023 - 15/10/2023 | Sunshine Coast, Queensland, Australia | [TuskCon](http://tuskcon.org/) | 50 |
+| October | 14/10/2023-15/10/2023 | Sunshine Coast, Queensland, Australia | [TuskCon](http://tuskcon.org/) | 50 |
 | October | TBA | Ahmedabad, India | [Bsides Ahmedabad](https://www.bsidesahmedabad.in/) | Unknown |
 | October | TBA | Kuala Lumpur, Malaysia | [Nanosec Asia](https://www.nanosec.asia/) | ~200 |
 | November | TBA | Christchurch, New Zealand | [CHCamp](https://2022.chcon.nz/) | Unknown |
