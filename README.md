@@ -15,16 +15,15 @@ Last Updated: 15/12/2022
 | February | 20/02/2023-21/02/2023 | Melbourne, Victoria, Australia | [MRE2023](https://federation.edu.au/icsl/icsl-conferences/mre-2023) | 100 |
 | February | 28/02/2023-02/03/2023 | Melbourne, Victoria, Australia | [COSAC APAC 2023](https://www.cosac.net/melbourne) | Unknown |
 | March | 20/03/2023-22/03/2023 | Canberra, ACT, Australia | [AISA CyberCon Canberra](https://cyberconference.com.au/) | Unknown |
-| March | TBA - 2024 | Brisbane, Queensland, Australia | [CrikeyCon](https://www.crikeycon.com/) | ~800 |
+| March | 23/03/2024 | Brisbane, Queensland, Australia | [CrikeyCon](https://www.crikeycon.com/) | ~800 |
 | March | TBA | Melbourne, Victoria, Australia | [BSides Melbourne](https://www.bsidesmelbourne.com/) | 400-450 |
-| March | TBA | Sunshine Coast, Queensland, Australia | [TuskCon](http://tuskcon.org/) | 50 |
 | April | 21/04/2023 | Brisbane, Australia | [BrisSEC](https://www.aisa.org.au/Public/Events/Event_Display.aspx?EventKey=291c8df8-7ba0-4f55-967a-bf47a19aad0b&iSearchResult=true&WebsiteKey=f9fae671-69a2-4102-8f2f-cc24ed48d26c) | Unknown |
+| May | 04/05/2023-05/05/2023 | Melbourne, Victoria, Australia | [0xCC](https://www.0xcc.sh/) | 200 |
 | May | 05/01/2023-06/01/2023 | Singapore, Singapore | [Infosec in the City](https://www.infosec-city.com/) | Unknown |
-| May | 09/05/2023-10/05/2023 | Perth, WA, Australia | [Cyuberwest Summit](https://www.cyberwestsummit.com.au/) | Unknown |
+| May | 09/05/2023-10/05/2023 | Perth, WA, Australia | [Cyberwest Summit](https://www.cyberwestsummit.com.au/) | Unknown |
 | May | 09/05/2023-12/05/2023 | Singapore, Singapore | [Blackhat Asia](https://www.blackhat.com/) | Unknown |
 | May | 09/05/2023-12/05/2023 | Gold Coast, Queensland, Australia | [AusCERT](https://auscert.org.au/category/events/events_conferences/) | 700 |
-| May | 12/05/2023-13/05/2023 | Melbourne, Victoria, Australia | [0xCC](https://www.0xcc.sh/) | 200 |
-| June | mid-year 2024 | Melbourne, Victoria, Australia | [OzSecCon](https://ozseccon.com/) | ~250 |
+| June | mid-year 2023 | Melbourne, Victoria, Australia | [OzSecCon](https://ozseccon.com/) | ~250 |
 | June | TBA | Virtual, APAC | [DevSecCon24](https://www.devseccon.com/events) | ~1000 |
 | July | 15/07/2023 | Brisbane, Australia | [BSides Brisbane](https://bsidesbrisbane.com/) | ~450 (New Conference) |
 | July | TBA - 2024? | Wellington, New Zealand | [Kawaiicon](https://kawaiicon.org/) | ~1000 |
@@ -35,6 +34,7 @@ Last Updated: 15/12/2022
 | September | TBA | Kochi, Kerala, India | [c0c0n 12](https://www.c0c0n.org/) | ~2000 |
 | September | 28/09/2023-30/09/2023 | Canberra, ACT, Australia | [BSides Canberra](http://www.bsidesau.com.au/) | 1950 + volunteers and speakers |
 | September | 27/09/2023-30/09/2023 | Tagaytay, Cavite, Philippines | [ROOTCON](https://www.rootcon.org/) | ~700-1000 |
+| October | 14/10/2023 - 15/10/2023 | Sunshine Coast, Queensland, Australia | [TuskCon](http://tuskcon.org/) | 50 |
 | October | TBA | Ahmedabad, India | [Bsides Ahmedabad](https://www.bsidesahmedabad.in/) | Unknown |
 | October | TBA | Kuala Lumpur, Malaysia | [Nanosec Asia](https://www.nanosec.asia/) | ~200 |
 | November | TBA | Christchurch, New Zealand | [CHCamp](https://2022.chcon.nz/) | Unknown |
