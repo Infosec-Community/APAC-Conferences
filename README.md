@@ -1,7 +1,7 @@
 # Asia-Pacific-Infosec-Conferences
 Below is a list of infosec / hacking conferences in Asia Pacific organised by month and region. If you know of any that are missing, or errors in the ones that are here - make a pull request or get in touch with hakluke or codingo.
 
-Last Updated: 20/04/2023
+Last Updated: 24/04/2023
 
 [![Twitter](https://img.shields.io/badge/twitter-@hakluke-blue.svg)](https://twitter.com/hakluke)
 [![Twitter](https://img.shields.io/badge/twitter-@codingo__-blue.svg)](https://twitter.com/codingo_)
@@ -44,7 +44,6 @@ Last Updated: 20/04/2023
 | November | TBA | Virtual, Australia | [ComfyCon Au](https://www.comfyconau.rocks/) | 300 |
 | November | TBA | Melbourne, Victoria, Australia | [OWASP AppSec Day](https://appsecday.io/) | ~1000 |
 | November | TBA | Kathmandu, Nepal | [Threat Con](https://threatcon.io/) | Unknown |
-| December | TBA | Perth, Western Australia, Australia | [WACTF](https://capture.tf/) | ~230 |
 
 * Approximate number of attendees is forecasted based on available tickets for a year, or the number of tickets sold in the previous year the event ran. Numbers may not be entirely accurate as there can be large fluctuations year on year.
 
