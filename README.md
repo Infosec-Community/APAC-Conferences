@@ -1,7 +1,7 @@
 # Asia-Pacific-Infosec-Conferences
 Below is a list of infosec / hacking conferences in Asia Pacific organised by month and region. If you know of any that are missing, or errors in the ones that are here - make a pull request or get in touch with hakluke or codingo.
 
-Last Updated: 20/04/2023
+Last Updated: 09/05/2023
 
 [![Twitter](https://img.shields.io/badge/twitter-@hakluke-blue.svg)](https://twitter.com/hakluke)
 [![Twitter](https://img.shields.io/badge/twitter-@codingo__-blue.svg)](https://twitter.com/codingo_)
@@ -23,28 +23,28 @@ Last Updated: 20/04/2023
 | May | 09/05/2023-12/05/2023 | Singapore, Singapore | [Blackhat Asia](https://www.blackhat.com/) | Unknown |
 | May | 09/05/2023-12/05/2023 | Gold Coast, Queensland, Australia | [AusCERT](https://auscert.org.au/category/events/events_conferences/) | 700 |
 | May | 05/05/2023-06/05/2023 | Melbourne, Victoria, Australia | [0xCC](https://www.0xcc.sh/) | 200 |
-| June | TBA | Virtual, APAC | [DevSecCon24](https://www.devseccon.com/events) | ~1000 |
+| June | 05/06/2023-08/05/2023 | Bangalore, India | [BSides Bangalore](https://bsidesbangalore.in/) | Unknown |
+| June | 27/06/2023 | Virtual, APAC | [DevSecCon24](https://www.devseccon.com/events) | ~1000 |
 | July | 14/07/2023 | Brisbane, Australia | [Autohackers](https://autohackers.org/) | Unknown (New Conference) |
 | July | 15/07/2023 | Brisbane, Australia | [BSides Brisbane](https://bsidesbrisbane.com/) | ~450 (New Conference) |
 | July | TBA - 2024? | Wellington, New Zealand | [Kawaiicon](https://kawaiicon.org/) | ~1000 |
+| August | 19/08/2023-20/08/2023 | Perth, WA, Australia | [BSides Perth](https://bsidesperth.com.au/) | ~280 |
 | September | 08/09/2023 - 10/09/2023| Melbourne, Victoria, Australia | [BSides Melbourne](https://www.bsidesmelbourne.com/) | 400-450 |
 | September | TBA | Virtual, Australia | [DownUnderCTF](https://downunderctf.com) | 4200 |
 | September | TBA | Goa, India | [Nullcon](https://nullcon.net) | Unknown |
 | September | TBA | Sydney, NSW, Australia | [CSECcon 2022 Sydney](http://cseccon.utscyber.org/) | ~200 |
-| September | TBA | Perth, WA, Australia | [BSides Perth](https://bsidesperth.com.au/) | ~280 |
-| September | TBA | Kochi, Kerala, India | [c0c0n 12](https://www.c0c0n.org/) | ~2000 |
+| September | 11/09/2023-13/09/2023 | Kathmandu, Nepal | [Threat Con](https://threatcon.io/) | Unknown |
 | September | 28/09/2023-30/09/2023 | Canberra, ACT, Australia | [BSides Canberra](http://www.bsidesau.com.au/) | 3000 + volunteers and speakers |
 | September | 27/09/2023-30/09/2023 | Tagaytay, Cavite, Philippines | [ROOTCON](https://www.rootcon.org/) | ~700-1000 |
+| October | 04/10/2023-07/10/2023 | Kochi, Kerala, India | [c0c0n 12](https://www.c0c0n.org/) | ~2000 |
+| October | 09/10/2023-12/10/2023 | Kuala Lumpur, Malaysia | [Nanosec Asia](https://www.nanosec.asia/) | ~200 |
 | October | 14/10/2023-15/10/2023 | Sunshine Coast, Queensland, Australia | [TuskCon](http://tuskcon.org/) | 50 |
 | October | TBA | Ahmedabad, India | [Bsides Ahmedabad](https://www.bsidesahmedabad.in/) | Unknown |
-| October | TBA | Kuala Lumpur, Malaysia | [Nanosec Asia](https://www.nanosec.asia/) | ~200 |
 | November | TBA | Christchurch, New Zealand | [CHCamp](https://2022.chcon.nz/) | Unknown |
-| November | TBA | Sydney, NSW, Australia | [BSides Sydney](http://bsidessydney.org/) | Unknown |
+| November | TBA | Sydney, NSW, Australia | [BSides Sydney](https://bsidessydney.org/) | Unknown |
 | November | TBA | Delhi, India | [Bsides Delhi](https://bsidesdelhi.in/) | ~350-400 |
 | November | TBA | Virtual, Australia | [ComfyCon Au](https://www.comfyconau.rocks/) | 300 |
 | November | TBA | Melbourne, Victoria, Australia | [OWASP AppSec Day](https://appsecday.io/) | ~1000 |
-| November | TBA | Kathmandu, Nepal | [Threat Con](https://threatcon.io/) | Unknown |
-| December | TBA | Perth, Western Australia, Australia | [WACTF](https://capture.tf/) | ~230 |
 
 * Approximate number of attendees is forecasted based on available tickets for a year, or the number of tickets sold in the previous year the event ran. Numbers may not be entirely accurate as there can be large fluctuations year on year.
 
@@ -87,7 +87,6 @@ Last Updated: 20/04/2023
 ### Western Australia
 #### Perth
 - [BSides Perth](https://bsidesperth.com.au/)
-- [WACTF](https://capture.tf/)
 
 ## India
 ### Goa
@@ -97,10 +96,13 @@ Last Updated: 20/04/2023
 - [c0c0n 12](https://www.c0c0n.org/)
 
 ### Delhi
-- [Bsides Delhi](https://bsidesdelhi.in/)
+- [BSides Delhi](https://bsidesdelhi.in/)
 
 ### Ahmedabad
-- [Bsides Ahmedabad](https://www.bsidesahmedabad.in/)
+- [BSides Ahmedabad](https://www.bsidesahmedabad.in/)
+
+### Bangalore
+- [BSides Bangalore](https://bsidesbangalore.in/)
 
 ## New Zealand
 ### Wellington
