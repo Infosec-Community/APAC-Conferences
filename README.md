@@ -28,8 +28,8 @@ Last Updated: 24/04/2023
 | July | 15/07/2023 | Brisbane, Australia | [BSides Brisbane](https://bsidesbrisbane.com/) | ~450 (New Conference) |
 | July | TBA - 2024? | Wellington, New Zealand | [Kawaiicon](https://kawaiicon.org/) | ~1000 |
 | August | 19/08/2023 - 20/08/2023 | Perth, WA, Australia | [BSides Perth](https://bsidesperth.com.au/) | ~280 |
+| September | 01/09/2023 - 03/09/2023| Virtual, Australia | [DownUnderCTF](https://downunderctf.com) | 4200 |
 | September | 08/09/2023 - 10/09/2023| Melbourne, Victoria, Australia | [BSides Melbourne](https://www.bsidesmelbourne.com/) | 400-450 |
-| September | TBA | Virtual, Australia | [DownUnderCTF](https://downunderctf.com) | 4200 |
 | September | TBA | Goa, India | [Nullcon](https://nullcon.net) | Unknown |
 | September | TBA | Sydney, NSW, Australia | [CSECcon 2022 Sydney](http://cseccon.utscyber.org/) | ~200 |
 | September | TBA | Kochi, Kerala, India | [c0c0n 12](https://www.c0c0n.org/) | ~2000 |
