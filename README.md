@@ -42,7 +42,7 @@ Last Updated: 13-Jul-2023
 | October | 17/10/2023-19/10/2023 | Melbourne, Victoria, Australia | [AISA CyberCon](https://cyberconference.com.au/) | Unknown |
 | October | TBA | Ahmedabad, India | [Bsides Ahmedabad](https://www.bsidesahmedabad.in/) | Unknown |
 | November | TBA | Christchurch, New Zealand | [CHCamp](https://2022.chcon.nz/) | Unknown |
-| November | TBA | Sydney, NSW, Australia | [BSides Sydney](https://bsidessydney.org/) | Unknown |
+| November | 27/11/2023 | Sydney, NSW, Australia | [BSides Sydney](http://bsidessydney.org/) | Unknown |
 | November | TBA | Delhi, India | [Bsides Delhi](https://bsidesdelhi.in/) | ~350-400 |
 | November | TBA | Virtual, Australia | [ComfyCon Au](https://www.comfyconau.rocks/) | 300 |
 | November | TBA | Melbourne, Victoria, Australia | [OWASP AppSec Day](https://appsecday.io/) | ~1000 |
