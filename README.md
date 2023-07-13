@@ -1,7 +1,7 @@
 # Asia-Pacific-Infosec-Conferences
 Below is a list of infosec / hacking conferences in Asia Pacific organised by month and region. If you know of any that are missing, or errors in the ones that are here - make a pull request or get in touch with hakluke or codingo.
 
-Last Updated: 09/05/2023
+Last Updated: 13-Jul-2023
 
 [![Twitter](https://img.shields.io/badge/twitter-@hakluke-blue.svg)](https://twitter.com/hakluke)
 [![Twitter](https://img.shields.io/badge/twitter-@codingo__-blue.svg)](https://twitter.com/codingo_)
@@ -27,12 +27,13 @@ Last Updated: 09/05/2023
 | July | 14/07/2023 | Brisbane, Australia | [Autohackers](https://autohackers.org/) | Unknown (New Conference) |
 | July | 15/07/2023 | Brisbane, Australia | [BSides Brisbane](https://bsidesbrisbane.com/) | ~450 (New Conference) |
 | July | TBA - 2024? | Wellington, New Zealand | [Kawaiicon](https://kawaiicon.org/) | ~1000 |
-| August | 19/08/2023-20/08/2023 | Perth, WA, Australia | [BSides Perth](https://bsidesperth.com.au/) | ~280 |
+| August | 19/08/2023 - 20/08/2023 | Perth, WA, Australia | [BSides Perth](https://bsidesperth.com.au/) | ~280 |
+| September | 01/09/2023 - 03/09/2023| Virtual, Australia | [DownUnderCTF](https://downunderctf.com) | 4200 |
 | September | 08/09/2023 - 10/09/2023| Melbourne, Victoria, Australia | [BSides Melbourne](https://www.bsidesmelbourne.com/) | 400-450 |
-| September | TBA | Virtual, Australia | [DownUnderCTF](https://downunderctf.com) | 4200 |
 | September | TBA | Goa, India | [Nullcon](https://nullcon.net) | Unknown |
 | September | TBA | Sydney, NSW, Australia | [CSECcon 2022 Sydney](http://cseccon.utscyber.org/) | ~200 |
 | September | 11/09/2023-13/09/2023 | Kathmandu, Nepal | [Threat Con](https://threatcon.io/) | Unknown |
+| September | TBA | Kochi, Kerala, India | [c0c0n 12](https://www.c0c0n.org/) | ~2000 |
 | September | 28/09/2023-30/09/2023 | Canberra, ACT, Australia | [BSides Canberra](http://www.bsidesau.com.au/) | 3000 + volunteers and speakers |
 | September | 27/09/2023-30/09/2023 | Tagaytay, Cavite, Philippines | [ROOTCON](https://www.rootcon.org/) | ~700-1000 |
 | October | 04/10/2023-07/10/2023 | Kochi, Kerala, India | [c0c0n 12](https://www.c0c0n.org/) | ~2000 |
@@ -45,6 +46,7 @@ Last Updated: 09/05/2023
 | November | TBA | Delhi, India | [Bsides Delhi](https://bsidesdelhi.in/) | ~350-400 |
 | November | TBA | Virtual, Australia | [ComfyCon Au](https://www.comfyconau.rocks/) | 300 |
 | November | TBA | Melbourne, Victoria, Australia | [OWASP AppSec Day](https://appsecday.io/) | ~1000 |
+| November | TBA | Kathmandu, Nepal | [Threat Con](https://threatcon.io/) | Unknown |
 
 * Approximate number of attendees is forecasted based on available tickets for a year, or the number of tickets sold in the previous year the event ran. Numbers may not be entirely accurate as there can be large fluctuations year on year.
 
