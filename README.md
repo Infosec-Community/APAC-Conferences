@@ -44,7 +44,7 @@ Last Updated: 13-Jul-2023
 | November | TBA | Christchurch, New Zealand | [CHCamp](https://2022.chcon.nz/) | Unknown |
 | November | 27/11/2023 | Sydney, NSW, Australia | [BSides Sydney](http://bsidessydney.org/) | Unknown |
 | November | TBA | Delhi, India | [Bsides Delhi](https://bsidesdelhi.in/) | ~350-400 |
-| November | TBA | Virtual, Australia | [ComfyCon Au](https://www.comfyconau.rocks/) | 300 |
+| November | TBA | Virtual, Australia | [ComfyCon Au](https://au.comfycon.rocks/) | 300 |
 | November | TBA | Melbourne, Victoria, Australia | [OWASP AppSec Day](https://appsecday.io/) | ~1000 |
 | November | TBA | Kathmandu, Nepal | [Threat Con](https://threatcon.io/) | Unknown |
 
