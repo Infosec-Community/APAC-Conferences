@@ -45,7 +45,7 @@ Last Updated: 8-Sep-2023
 | November | 23/11/2023 - 25/11/2023 | Christchurch, New Zealand | [CHCon](https://chcon.nz/) | Unknown |
 | November | 27/11/2023 | Sydney, NSW, Australia | [BSides Sydney](http://bsidessydney.org/) | Unknown |
 | November | TBA | Delhi, India | [Bsides Delhi](https://bsidesdelhi.in/) | ~350-400 |
-| November | On haitus - Legal roadblocks with OWASP HQ | Melbourne, Victoria, Australia | [OWASP AppSec Day](https://appsecday.io/) | ~1000 |
+| November | TBD | Melbourne, Victoria, Australia | [OWASP AppSec Day](https://appsecday.io/) | ~1000 |
 | November | TBA | Kathmandu, Nepal | [Threat Con](https://threatcon.io/) | Unknown |
 
 * Approximate number of attendees is forecasted based on available tickets for a year, or the number of tickets sold in the previous year the event ran. Numbers may not be entirely accurate as there can be large fluctuations year on year.
