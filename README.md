@@ -1,7 +1,7 @@
 # Asia-Pacific-Infosec-Conferences
 Below is a list of infosec / hacking conferences in Asia Pacific organised by month and region. If you know of any that are missing, or errors in the ones that are here - make a pull request or get in touch with hakluke or codingo.
 
-Last Updated: 13-Jul-2023
+Last Updated: 8-Sep-2023
 
 [![Twitter](https://img.shields.io/badge/twitter-@hakluke-blue.svg)](https://twitter.com/hakluke)
 [![Twitter](https://img.shields.io/badge/twitter-@codingo__-blue.svg)](https://twitter.com/codingo_)
@@ -16,6 +16,7 @@ Last Updated: 13-Jul-2023
 | February | 28/02/2023-02/03/2023 | Melbourne, Victoria, Australia | [COSAC APAC 2023](https://www.cosac.net/melbourne) | Unknown |
 | March | 23/03/2024 | Brisbane, Queensland, Australia | [CrikeyCon](https://www.crikeycon.com/) | ~800 |
 | April | 21/04/2023 | Brisbane, Australia | [BrisSEC](https://www.aisa.org.au/Public/Events/Event_Display.aspx?EventKey=291c8df8-7ba0-4f55-967a-bf47a19aad0b&iSearchResult=true&WebsiteKey=f9fae671-69a2-4102-8f2f-cc24ed48d26c) | Unknown |
+| April | 06/04/2024 - 07/04/2024 | Virtual, Australia | [ComfyCon Au](https://au.comfycon.rocks/) | 500 |
 | May | 04/05/2023-05/05/2023 | Melbourne, Victoria, Australia | [0xCC](https://www.0xcc.sh/) | 200 |
 | May | 05/01/2023-06/01/2023 | Singapore, Singapore | [Infosec in the City](https://www.infosec-city.com/) | Unknown |
 | May | 09/05/2023-10/05/2023 | Perth, WA, Australia | [Cyberwest Summit](https://www.cyberwestsummit.com.au/) | Unknown |
@@ -41,11 +42,10 @@ Last Updated: 13-Jul-2023
 | October | 14/10/2023-15/10/2023 | Sunshine Coast, Queensland, Australia | [TuskCon](http://tuskcon.org/) | 50 |
 | October | 17/10/2023-19/10/2023 | Melbourne, Victoria, Australia | [AISA CyberCon](https://cyberconference.com.au/) | Unknown |
 | October | TBA | Ahmedabad, India | [Bsides Ahmedabad](https://www.bsidesahmedabad.in/) | Unknown |
-| November | TBA | Christchurch, New Zealand | [CHCamp](https://2022.chcon.nz/) | Unknown |
+| November | 23/11/2023 - 25/11/2023 | Christchurch, New Zealand | [CHCon](https://chcon.nz/) | Unknown |
 | November | 27/11/2023 | Sydney, NSW, Australia | [BSides Sydney](http://bsidessydney.org/) | Unknown |
 | November | TBA | Delhi, India | [Bsides Delhi](https://bsidesdelhi.in/) | ~350-400 |
-| November | TBA | Virtual, Australia | [ComfyCon Au](https://au.comfycon.rocks/) | 300 |
-| November | TBA | Melbourne, Victoria, Australia | [OWASP AppSec Day](https://appsecday.io/) | ~1000 |
+| November | On haitus - Legal roadblocks with OWASP HQ | Melbourne, Victoria, Australia | [OWASP AppSec Day](https://appsecday.io/) | ~1000 |
 | November | TBA | Kathmandu, Nepal | [Threat Con](https://threatcon.io/) | Unknown |
 
 * Approximate number of attendees is forecasted based on available tickets for a year, or the number of tickets sold in the previous year the event ran. Numbers may not be entirely accurate as there can be large fluctuations year on year.
