@@ -44,6 +44,7 @@ Last Updated: 8-Sep-2023
 | October | 17/10/2023-19/10/2023 | Melbourne, Victoria, Australia | [AISA CyberCon](https://cyberconference.com.au/) | Unknown |
 | October | TBA | Ahmedabad, India | [Bsides Ahmedabad](https://www.bsidesahmedabad.in/) | Unknown |
 | November | 23/11/2023 - 25/11/2023 | Christchurch, New Zealand | [CHCon](https://chcon.nz/) | Unknown |
+| November | 15/11/2023| Taipei, Taiwan | [HITCON ENT](https://cfp2023.hitcon.org/en/) | Unknown |
 | November | 27/11/2023 | Sydney, NSW, Australia | [BSides Sydney](http://bsidessydney.org/) | Unknown |
 | November | TBA | Delhi, India | [Bsides Delhi](https://bsidesdelhi.in/) | ~350-400 |
 | November | TBD | Melbourne, Victoria, Australia | [OWASP AppSec Day](https://appsecday.io/) | ~1000 |
