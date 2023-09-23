@@ -28,6 +28,7 @@ Last Updated: 8-Sep-2023
 | July | 14/07/2023 | Brisbane, Australia | [Autohackers](https://autohackers.org/) | Unknown (New Conference) |
 | July | 15/07/2023 | Brisbane, Australia | [BSides Brisbane](https://bsidesbrisbane.com/) | ~450 (New Conference) |
 | July | TBA - 2024? | Wellington, New Zealand | [Kawaiicon](https://kawaiicon.org/) | ~1000 |
+| August | 18/08/2023 - 19/08/2023 | Taipei, Taiwan | [HITCON](https://hitcon.org/2023/CMT/en/) | ~1000 |
 | August | 19/08/2023 - 20/08/2023 | Perth, WA, Australia | [BSides Perth](https://bsidesperth.com.au/) | ~280 |
 | September | 01/09/2023 - 03/09/2023| Virtual, Australia | [DownUnderCTF](https://downunderctf.com) | 4200 |
 | September | 08/09/2023 - 10/09/2023| Melbourne, Victoria, Australia | [BSides Melbourne](https://www.bsidesmelbourne.com/) | 400-450 |
