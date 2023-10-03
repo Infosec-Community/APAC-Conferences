@@ -1,7 +1,7 @@
 # Asia-Pacific-Infosec-Conferences
 Below is a list of infosec / hacking conferences in Asia Pacific organised by month and region. If you know of any that are missing, or errors in the ones that are here - make a pull request or get in touch with hakluke or codingo.
 
-Last Updated: 8-Sep-2023
+Last Updated: 3-Oct-2023
 
 [![Twitter](https://img.shields.io/badge/twitter-@hakluke-blue.svg)](https://twitter.com/hakluke)
 [![Twitter](https://img.shields.io/badge/twitter-@codingo__-blue.svg)](https://twitter.com/codingo_)
@@ -28,6 +28,7 @@ Last Updated: 8-Sep-2023
 | July | 14/07/2023 | Brisbane, Australia | [Autohackers](https://autohackers.org/) | Unknown (New Conference) |
 | July | 15/07/2023 | Brisbane, Australia | [BSides Brisbane](https://bsidesbrisbane.com/) | ~450 (New Conference) |
 | July | TBA - 2024? | Wellington, New Zealand | [Kawaiicon](https://kawaiicon.org/) | ~1000 |
+| August | 18/08/2023 - 19/08/2023 | Taipei, Taiwan | [HITCON](https://hitcon.org/2023/CMT/en/) | ~1000 |
 | August | 19/08/2023 - 20/08/2023 | Perth, WA, Australia | [BSides Perth](https://bsidesperth.com.au/) | ~280 |
 | September | 01/09/2023 - 03/09/2023| Virtual, Australia | [DownUnderCTF](https://downunderctf.com) | 4200 |
 | September | 08/09/2023 - 10/09/2023| Melbourne, Victoria, Australia | [BSides Melbourne](https://www.bsidesmelbourne.com/) | 400-450 |
@@ -43,6 +44,7 @@ Last Updated: 8-Sep-2023
 | October | 17/10/2023-19/10/2023 | Melbourne, Victoria, Australia | [AISA CyberCon](https://cyberconference.com.au/) | Unknown |
 | October | TBA | Ahmedabad, India | [Bsides Ahmedabad](https://www.bsidesahmedabad.in/) | Unknown |
 | November | 23/11/2023 - 25/11/2023 | Christchurch, New Zealand | [CHCon](https://chcon.nz/) | Unknown |
+| November | 15/11/2023| Taipei, Taiwan | [HITCON ENT](https://cfp2023.hitcon.org/en/) | Unknown |
 | November | 27/11/2023 | Sydney, NSW, Australia | [BSides Sydney](http://bsidessydney.org/) | Unknown |
 | November | TBA | Delhi, India | [Bsides Delhi](https://bsidesdelhi.in/) | ~350-400 |
 | November | TBD | Melbourne, Victoria, Australia | [OWASP AppSec Day](https://appsecday.io/) | ~1000 |
