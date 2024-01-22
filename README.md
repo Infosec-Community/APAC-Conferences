@@ -35,7 +35,7 @@ Last Updated: 8-Sep-2023
 | September | TBA | Sydney, NSW, Australia | [CSECcon 2022 Sydney](http://cseccon.utscyber.org/) | ~200 |
 | September | 11/09/2023-13/09/2023 | Kathmandu, Nepal | [Threat Con](https://threatcon.io/) | Unknown |
 | September | TBA | Kochi, Kerala, India | [c0c0n 12](https://www.c0c0n.org/) | ~2000 |
-| September | 28/09/2023-30/09/2023 | Canberra, ACT, Australia | [BSides Canberra](http://www.bsidesau.com.au/) | 3000 + volunteers and speakers |
+| September | 26/09/2024-28/09/2024 | Canberra, ACT, Australia | [BSides Canberra](http://www.bsidesau.com.au/) | 3000 + volunteers and speakers |
 | September | 27/09/2023-30/09/2023 | Tagaytay, Cavite, Philippines | [ROOTCON](https://www.rootcon.org/) | ~700-1000 |
 | October | 04/10/2023-07/10/2023 | Kochi, Kerala, India | [c0c0n 12](https://www.c0c0n.org/) | ~2000 |
 | October | 09/10/2023-12/10/2023 | Kuala Lumpur, Malaysia | [Nanosec Asia](https://www.nanosec.asia/) | ~200 |
