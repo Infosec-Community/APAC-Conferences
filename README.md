@@ -1,7 +1,7 @@
 # Asia-Pacific-Infosec-Conferences
 Below is a list of infosec / hacking conferences in Asia Pacific organised by month and region. If you know of any that are missing, or errors in the ones that are here - make a pull request or get in touch with hakluke or codingo.
 
-Last Updated: 8-Sep-2023
+Last Updated: 30-Mar-2024
 
 [![Twitter](https://img.shields.io/badge/twitter-@hakluke-blue.svg)](https://twitter.com/hakluke)
 [![Twitter](https://img.shields.io/badge/twitter-@codingo__-blue.svg)](https://twitter.com/codingo_)
@@ -10,43 +10,27 @@ Last Updated: 8-Sep-2023
 # Conferences by Month
 | **Month** | **Next Conference Date** | **Location** | **Conference** | **Approx. Attendees*** |
 |---|---|---|---|---|
-| January | 05/01/2023-06/01/2023 | Singapore, Singapore | [SINCON / Infosec in the City](https://www.infosec-city.com/) | Unknown |
-| January | 27/01/2023 | Melbourne, Victoria, Australia | [Kids Securiday](https://www.securiday.com/) | ~100-250 |
-| February | 20/02/2023-21/02/2023 | Melbourne, Victoria, Australia | [MRE2023](https://federation.edu.au/icsl/icsl-conferences/mre-2023) | 100 |
-| February | 28/02/2023-02/03/2023 | Melbourne, Victoria, Australia | [COSAC APAC 2023](https://www.cosac.net/melbourne) | Unknown |
 | March | 23/03/2024 | Brisbane, Queensland, Australia | [CrikeyCon](https://www.crikeycon.com/) | ~800 |
-| April | 21/04/2023 | Brisbane, Australia | [BrisSEC](https://www.aisa.org.au/Public/Events/Event_Display.aspx?EventKey=291c8df8-7ba0-4f55-967a-bf47a19aad0b&iSearchResult=true&WebsiteKey=f9fae671-69a2-4102-8f2f-cc24ed48d26c) | Unknown |
+| April | 19/04/2024 | Brisbane, Australia | [BrisSEC](https://aisasecuritydays.com.au/brissec) | 500 apx |
 | April | 06/04/2024 - 07/04/2024 | Virtual, Australia | [ComfyCon Au](https://au.comfycon.rocks/) | 500 |
-| May | 04/05/2023-05/05/2023 | Melbourne, Victoria, Australia | [0xCC](https://www.0xcc.sh/) | 200 |
-| May | 05/01/2023-06/01/2023 | Singapore, Singapore | [Infosec in the City](https://www.infosec-city.com/) | Unknown |
-| May | 09/05/2023-10/05/2023 | Perth, WA, Australia | [Cyberwest Summit](https://www.cyberwestsummit.com.au/) | Unknown |
-| May | 09/05/2023-12/05/2023 | Singapore, Singapore | [Blackhat Asia](https://www.blackhat.com/) | Unknown |
-| May | 09/05/2023-12/05/2023 | Gold Coast, Queensland, Australia | [AusCERT](https://auscert.org.au/category/events/events_conferences/) | 700 |
-| May | 05/05/2023-06/05/2023 | Melbourne, Victoria, Australia | [0xCC](https://www.0xcc.sh/) | 200 |
-| June | 05/06/2023-08/05/2023 | Bangalore, India | [BSides Bangalore](https://bsidesbangalore.in/) | Unknown |
-| June | 27/06/2023 | Virtual, APAC | [DevSecCon24](https://www.devseccon.com/events) | ~1000 |
-| July | 14/07/2023 | Brisbane, Australia | [Autohackers](https://autohackers.org/) | Unknown (New Conference) |
-| July | 15/07/2023 | Brisbane, Australia | [BSides Brisbane](https://bsidesbrisbane.com/) | ~450 (New Conference) |
-| July | TBA - 2024? | Wellington, New Zealand | [Kawaiicon](https://kawaiicon.org/) | ~1000 |
-| August | 19/08/2023 - 20/08/2023 | Perth, WA, Australia | [BSides Perth](https://bsidesperth.com.au/) | ~280 |
-| September | 01/09/2023 - 03/09/2023| Virtual, Australia | [DownUnderCTF](https://downunderctf.com) | 4200 |
-| September | 08/09/2023 - 10/09/2023| Melbourne, Victoria, Australia | [BSides Melbourne](https://www.bsidesmelbourne.com/) | 400-450 |
-| September | TBA | Goa, India | [Nullcon](https://nullcon.net) | Unknown |
-| September | TBA | Sydney, NSW, Australia | [CSECcon 2022 Sydney](http://cseccon.utscyber.org/) | ~200 |
-| September | 11/09/2023-13/09/2023 | Kathmandu, Nepal | [Threat Con](https://threatcon.io/) | Unknown |
-| September | TBA | Kochi, Kerala, India | [c0c0n 12](https://www.c0c0n.org/) | ~2000 |
-| September | 28/09/2023-30/09/2023 | Canberra, ACT, Australia | [BSides Canberra](http://www.bsidesau.com.au/) | 3000 + volunteers and speakers |
-| September | 27/09/2023-30/09/2023 | Tagaytay, Cavite, Philippines | [ROOTCON](https://www.rootcon.org/) | ~700-1000 |
-| October | 04/10/2023-07/10/2023 | Kochi, Kerala, India | [c0c0n 12](https://www.c0c0n.org/) | ~2000 |
-| October | 09/10/2023-12/10/2023 | Kuala Lumpur, Malaysia | [Nanosec Asia](https://www.nanosec.asia/) | ~200 |
-| October | 14/10/2023-15/10/2023 | Sunshine Coast, Queensland, Australia | [TuskCon](http://tuskcon.org/) | 50 |
-| October | 17/10/2023-19/10/2023 | Melbourne, Victoria, Australia | [AISA CyberCon](https://cyberconference.com.au/) | Unknown |
-| October | TBA | Ahmedabad, India | [Bsides Ahmedabad](https://www.bsidesahmedabad.in/) | Unknown |
-| November | 23/11/2023 - 25/11/2023 | Christchurch, New Zealand | [CHCon](https://chcon.nz/) | Unknown |
-| November | 27/11/2023 | Sydney, NSW, Australia | [BSides Sydney](http://bsidessydney.org/) | Unknown |
-| November | TBA | Delhi, India | [Bsides Delhi](https://bsidesdelhi.in/) | ~350-400 |
-| November | TBD | Melbourne, Victoria, Australia | [OWASP AppSec Day](https://appsecday.io/) | ~1000 |
-| November | TBA | Kathmandu, Nepal | [Threat Con](https://threatcon.io/) | Unknown |
+| May | 02/05/2024 - 04/05/2024 | Goa, India | [Nullcon](https://nullcon.net) | Unknown |
+| May | 15/05/2024-16/05/2024 | Perth, WA, Australia | [Cyberwest Summit](https://www.cyberwestsummit.com.au/) | Unknown |
+| May | 16/05/2024-19/05/2024 | Singapore, Singapore | [Blackhat Asia](https://www.blackhat.com/asia-24/) | Unknown |
+| May | 21/05/2024-23/05/2024 | Gold Coast, Queensland, Australia | [AusCERT](https://conference.auscert.org.au/) | 700 |
+| May | 23/05/2024-05/24/2024 | Singapore, Singapore | [Infosec in the City](https://www.infosec-city.com/) | Unknown |
+| June | 05/06/2024-05-07-2024 | Canberra, AU | [CyberSecurity for Government](https://cybersecgov.co/) | Unknown |
+| June | 25/06/2024 | Sydney, AU | [SydneySec](https://aisasecuritydays.com.au/sydneysec) | Unknown |
+| June | 28/06/2024 | Bangalore, India | [BSides Bangalore](https://bsidesbangalore.in/) | Unknown |
+| July | 13/07/2024 | Brisbane, Australia | [BSides Brisbane](https://bsidesbrisbane.com/) | ~450 (New Conference) |
+| August | 20/08/2024 | Brisbane, QLD, Australia | [ROCCON](https://www.realmsofcyber.com/) | ~280 |
+| August | 29/08/2024 | Canberra, Australia | [AUSEC](https://publicsectornetwork.com/event/australian-security-summit-ausec/) | ~280 |
+| September | 03/09/2024 - 06/09/2024 | Auckland, NZ | [AppSec Auckland](https://appsec.org.nz/conference/) | Unknown |
+| September | 25/09/2024-27/09/2024 | Tagaytay, Cavite, Philippines | [ROOTCON](https://www.rootcon.org/) | ~700-1000 |
+| September | 26/09/2024-28/09/2024 | Canberra, ACT, Australia | [BSides Canberra](http://www.bsidesau.com.au/) | 3000 + volunteers and speakers |
+| November | 7/11/2024 | Sydney, NSW, Australia | [Hack Sydney](https://www.hack.sydney/) | Unknown |
+| November | 9/11/2024 | Sydney, NSW, Australia | [BSides Sydney](https://www.bsides.sydney/) | Unknown |
+| November | 21/11/2024 - 23/11/2024 | Christchurch, New Zealand | [CHCon](https://chcon.nz/) | Unknown |
+| November | 26/11/2024 - 28/11/2024 | Melbourne, Australia | [AISA CyberCon](https://conference.aisa.org.au/QuickEventWebsitePortal/2024-australian-cyber-conference-melbourne/cfs-site) | 1500+ |
 
 * Approximate number of attendees is forecasted based on available tickets for a year, or the number of tickets sold in the previous year the event ran. Numbers may not be entirely accurate as there can be large fluctuations year on year.
 
@@ -59,6 +43,8 @@ Last Updated: 8-Sep-2023
 - [CSECcon](http://cseccon.utscyber.org/)
 - [MRE2023](https://federation.edu.au/icsl/icsl-conferences/mre-2023)
 - [Kids Securiday](https://www.securiday.com/)  
+- [Hack Sydney](https://www.hack.sydney/)
+- [SydneySec](https://aisasecuritydays.com.au/sydneysec)
 
 ### Victoria
 #### Melbourne
