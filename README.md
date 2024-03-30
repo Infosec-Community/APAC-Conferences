@@ -28,11 +28,10 @@ Last Updated: 30-Mar-2024
 | September | 03/09/2024 - 06/09/2024 | Auckland, NZ | [AppSec Auckland](https://appsec.org.nz/conference/) | Unknown |
 | September | 25/09/2024-27/09/2024 | Tagaytay, Cavite, Philippines | [ROOTCON](https://www.rootcon.org/) | ~700-1000 |
 | September | 26/09/2024-28/09/2024 | Canberra, ACT, Australia | [BSides Canberra](http://www.bsidesau.com.au/) | 3000 + volunteers and speakers |
-| November | 21/11/2024 - 23/11/2024 | Christchurch, New Zealand | [CHCon](https://chcon.nz/) | Unknown |
-| November | 26/11/2024-28/11/2024 | Melbourne, Victoria, Australia | [AISA CyberCon](https://cyberconference.com.au/) | 1500+ |
 | November | 7/11/2024 | Sydney, NSW, Australia | [Hack Sydney](https://www.hack.sydney/) | Unknown |
 | November | 9/11/2024 | Sydney, NSW, Australia | [BSides Sydney](https://www.bsides.sydney/) | Unknown |
-| November | 26/11/2024 - 28/11/2024 | Melbourne, Australia | [AISA CyberCon](https://conference.aisa.org.au/QuickEventWebsitePortal/2024-australian-cyber-conference-melbourne/cfs-site) | Unknown |
+| November | 21/11/2024 - 23/11/2024 | Christchurch, New Zealand | [CHCon](https://chcon.nz/) | Unknown |
+| November | 26/11/2024 - 28/11/2024 | Melbourne, Australia | [AISA CyberCon](https://conference.aisa.org.au/QuickEventWebsitePortal/2024-australian-cyber-conference-melbourne/cfs-site) | 1500+ |
 
 * Approximate number of attendees is forecasted based on available tickets for a year, or the number of tickets sold in the previous year the event ran. Numbers may not be entirely accurate as there can be large fluctuations year on year.
 
