@@ -23,16 +23,16 @@ Last Updated: 8-Sep-2023
 | June | 25/06/2024 | Sydney, AU | [SydneySec](https://aisasecuritydays.com.au/sydneysec) | Unknown |
 | June | 28/06/2024 | Bangalore, India | [BSides Bangalore](https://bsidesbangalore.in/) | Unknown |
 | July | 13/07/2024 | Brisbane, Australia | [BSides Brisbane](https://bsidesbrisbane.com/) | ~450 (New Conference) |
-| August | 20/08/2024 - 20/08/2023 | Brisbane, QLD, Australia | [ROCCON](https://www.realmsofcyber.com/) | ~280 |
-| September | 26/09/2024-28/09/2024 | Canberra, ACT, Australia | [BSides Canberra](http://www.bsidesau.com.au/) | 3000 + volunteers and speakers |
+| August | 20/08/2024 | Brisbane, QLD, Australia | [ROCCON](https://www.realmsofcyber.com/) | ~280 |
+| August | 29/08/2024 | Canberra, Australia | [AUSEC]()https://publicsectornetwork.com/event/australian-security-summit-ausec/ | ~280 |
+| September | 03/09/2024 - 06/09/2024 | [AppSec Auckland](https://appsec.org.nz/conference/) | Unknown |
 | September | 25/09/2024-27/09/2024 | Tagaytay, Cavite, Philippines | [ROOTCON](https://www.rootcon.org/) | ~700-1000 |
+| September | 26/09/2024-28/09/2024 | Canberra, ACT, Australia | [BSides Canberra](http://www.bsidesau.com.au/) | 3000 + volunteers and speakers |
 | November | 21/11/2024 - 23/11/2024 | Christchurch, New Zealand | [CHCon](https://chcon.nz/) | Unknown |
 | November | 26/11/2024-28/11/2024 | Melbourne, Victoria, Australia | [AISA CyberCon](https://cyberconference.com.au/) | 1500+ |
 | November | 7/11/2024 | Sydney, NSW, Australia | [Hack Sydney](https://www.hack.sydney/) | Unknown |
 | November | 9/11/2024 | Sydney, NSW, Australia | [BSides Sydney](https://www.bsides.sydney/) | Unknown |
-| November | TBA | Delhi, India | [Bsides Delhi](https://bsidesdelhi.in/) | ~350-400 |
-| November | TBD | Melbourne, Victoria, Australia | [OWASP AppSec Day](https://appsecday.io/) | ~1000 |
-| November | TBA | Kathmandu, Nepal | [Threat Con](https://threatcon.io/) | Unknown |
+| November | 26/11/2024 - 28/11/2024 | [AISA CyberCon](https://conference.aisa.org.au/QuickEventWebsitePortal/2024-australian-cyber-conference-melbourne/cfs-site) | Unknown |
 
 * Approximate number of attendees is forecasted based on available tickets for a year, or the number of tickets sold in the previous year the event ran. Numbers may not be entirely accurate as there can be large fluctuations year on year.
 
