@@ -14,7 +14,6 @@ Last Updated: 30-Mar-2024
 | April | 19/04/2024 | Brisbane, Australia | [BrisSEC](https://aisasecuritydays.com.au/brissec) | 500 apx |
 | April | 06/04/2024 - 07/04/2024 | Virtual, Australia | [ComfyCon Au](https://au.comfycon.rocks/) | 500 |
 | May | 02/05/2024 - 04/05/2024 | Goa, India | [Nullcon](https://nullcon.net) | Unknown |
-| May | 04/05/2023-05/05/2023 | Melbourne, Victoria, Australia | [0xCC](https://www.0xcc.sh/) | 200 |
 | May | 15/05/2024-16/05/2024 | Perth, WA, Australia | [Cyberwest Summit](https://www.cyberwestsummit.com.au/) | Unknown |
 | May | 16/05/2024-19/05/2024 | Singapore, Singapore | [Blackhat Asia](https://www.blackhat.com/asia-24/) | Unknown |
 | May | 21/05/2024-23/05/2024 | Gold Coast, Queensland, Australia | [AusCERT](https://conference.auscert.org.au/) | 700 |
@@ -44,6 +43,8 @@ Last Updated: 30-Mar-2024
 - [CSECcon](http://cseccon.utscyber.org/)
 - [MRE2023](https://federation.edu.au/icsl/icsl-conferences/mre-2023)
 - [Kids Securiday](https://www.securiday.com/)  
+- [Hack Sydney](https://www.hack.sydney/)
+- [SydneySec](https://aisasecuritydays.com.au/sydneysec)
 
 ### Victoria
 #### Melbourne
