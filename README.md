@@ -24,7 +24,7 @@ Last Updated: 8-Sep-2023
 | June | 28/06/2024 | Bangalore, India | [BSides Bangalore](https://bsidesbangalore.in/) | Unknown |
 | July | 13/07/2024 | Brisbane, Australia | [BSides Brisbane](https://bsidesbrisbane.com/) | ~450 (New Conference) |
 | August | 20/08/2024 | Brisbane, QLD, Australia | [ROCCON](https://www.realmsofcyber.com/) | ~280 |
-| August | 29/08/2024 | Canberra, Australia | [AUSEC]()https://publicsectornetwork.com/event/australian-security-summit-ausec/ | ~280 |
+| August | 29/08/2024 | Canberra, Australia | [AUSEC](https://publicsectornetwork.com/event/australian-security-summit-ausec/) | ~280 |
 | September | 03/09/2024 - 06/09/2024 | [AppSec Auckland](https://appsec.org.nz/conference/) | Unknown |
 | September | 25/09/2024-27/09/2024 | Tagaytay, Cavite, Philippines | [ROOTCON](https://www.rootcon.org/) | ~700-1000 |
 | September | 26/09/2024-28/09/2024 | Canberra, ACT, Australia | [BSides Canberra](http://www.bsidesau.com.au/) | 3000 + volunteers and speakers |
