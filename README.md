@@ -115,3 +115,12 @@ Last Updated: 30-Mar-2024
 ## Malaysia
 ### Kuala Lumpur
 - [Nanosec Asia](https://www.nanosec.asia/)
+
+## Global Conferences that you might care about
+### RSA
+- 06/05/2024 - 09/05/2024 | [RSA San Francisco](https://www.rsaconference.com/)
+
+### OWASP
+- 24/06/2024 - 28/06/2024 | [OWASP Global AppSec Lisbon](https://lisbon.globalappsec.org/)
+- 23/09/2024 - 27/09/2024 | [OWASP Global AppSec San Francisco](https://sf.globalappsec.org/)
+- 22/10/2024 - 25/10/2024 | [LASCON Austin, TX](https://lascon.org/)
