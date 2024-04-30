@@ -1,13 +1,13 @@
 # Asia-Pacific-Infosec-Conferences
 Below is a list of infosec / hacking conferences in Asia Pacific organised by month and region. If you know of any that are missing, or errors in the ones that are here - make a pull request or get in touch with hakluke or codingo.
 
-Last Updated: 30-Mar-2024
+Last Updated: 31-Mar-2024
 
 [![Twitter](https://img.shields.io/badge/twitter-@hakluke-blue.svg)](https://twitter.com/hakluke)
 [![Twitter](https://img.shields.io/badge/twitter-@codingo__-blue.svg)](https://twitter.com/codingo_)
 [![Twitter](https://img.shields.io/badge/twitter-@hellodanielting-blue.svg)](https://twitter.com/hellodanielting)
 
-# Conferences by Month
+# APAC Conferences by Month
 | **Month** | **Next Conference Date** | **Location** | **Conference** | **Approx. Attendees*** |
 |---|---|---|---|---|
 | March | 23/03/2024 | Brisbane, Queensland, Australia | [CrikeyCon](https://www.crikeycon.com/) | ~800 |
@@ -29,6 +29,7 @@ Last Updated: 30-Mar-2024
 | September | 26/09/2024-28/09/2024 | Canberra, ACT, Australia | [BSides Canberra](http://www.bsidesau.com.au/) | 3000 + volunteers and speakers |
 | November | 7/11/2024 | Sydney, NSW, Australia | [Hack Sydney](https://www.hack.sydney/) | Unknown |
 | November | 9/11/2024 | Sydney, NSW, Australia | [BSides Sydney](https://www.bsides.sydney/) | Unknown |
+| November | 15/11/2024 - 17/11/2024 | Melbourne, Australia | [Melbourne BSides](https://www.bsidesmelbourne.com/) | 500 |
 | November | 21/11/2024 - 23/11/2024 | Christchurch, New Zealand | [CHCon](https://chcon.nz/) | Unknown |
 | November | 26/11/2024 - 28/11/2024 | Melbourne, Australia | [AISA CyberCon](https://conference.aisa.org.au/QuickEventWebsitePortal/2024-australian-cyber-conference-melbourne/cfs-site) | 1500+ |
 
@@ -115,3 +116,12 @@ Last Updated: 30-Mar-2024
 ## Malaysia
 ### Kuala Lumpur
 - [Nanosec Asia](https://www.nanosec.asia/)
+
+## Global Conferences that you might care about
+### RSA
+- 06/05/2024 - 09/05/2024 | [RSA San Francisco](https://www.rsaconference.com/)
+
+### OWASP
+- 24/06/2024 - 28/06/2024 | [OWASP Global AppSec Lisbon](https://lisbon.globalappsec.org/)
+- 23/09/2024 - 27/09/2024 | [OWASP Global AppSec San Francisco](https://sf.globalappsec.org/)
+- 22/10/2024 - 25/10/2024 | [LASCON Austin, TX](https://lascon.org/)
