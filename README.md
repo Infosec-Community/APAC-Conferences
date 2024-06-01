@@ -112,7 +112,7 @@ Last Updated: 31-Mar-2024
 ## Singapore
 ### Singapore
 - [Blackhat Asia](https://www.blackhat.com/)
-- [GeekCon] (https://geekcon.top/)
+- [GeekCon](https://geekcon.top/)
 - [SINCON / Infosec in the City](https://www.infosec-city.com/)
 
 ## Nepal
