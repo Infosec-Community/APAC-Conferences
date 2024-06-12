@@ -20,6 +20,7 @@ Last Updated: 31-Mar-2024
 | May | 23/05/2024-05/24/2024 | Singapore, Singapore | [Infosec in the City](https://www.infosec-city.com/) | Unknown |
 | June | 05/06/2024-05-07-2024 | Canberra, AU | [CyberSecurity for Government](https://cybersecgov.co/) | Unknown |
 | June | 25/06/2024 | Sydney, AU | [SydneySec](https://aisasecuritydays.com.au/sydneysec) | Unknown |
+| June | 25/06/2024 | Sydney, AU | [SCONES](https://scones.secso.cc/) | ~200 |
 | June | 28/06/2024 | Bangalore, India | [BSides Bangalore](https://bsidesbangalore.in/) | Unknown |
 | July | 13/07/2024 | Brisbane, Australia | [BSides Brisbane](https://bsidesbrisbane.com/) | ~450 (New Conference) |
 | July | 13/07/2024 | Hobart, Australia | [Hobart Kids SecuriDay](https://www.securiday.com/hba2024.html/) | Unknown |
@@ -46,6 +47,7 @@ Last Updated: 31-Mar-2024
 - [CSECcon](http://cseccon.utscyber.org/)
 - [MRE2023](https://federation.edu.au/icsl/icsl-conferences/mre-2023)
 - [Hack Sydney](https://www.hack.sydney/)
+- [SCONES](https://scones.secso.cc/)
 - [SydneySec](https://aisasecuritydays.com.au/sydneysec)
 
 ### Victoria
