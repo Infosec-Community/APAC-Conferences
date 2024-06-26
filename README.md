@@ -1,7 +1,7 @@
 # Asia-Pacific-Infosec-Conferences
 Below is a list of infosec / hacking conferences in Asia Pacific organised by month and region. If you know of any that are missing, or errors in the ones that are here - make a pull request or get in touch with hakluke or codingo.
 
-Last Updated: 31-Mar-2024
+Last Updated: 26-Jun-2024
 
 [![Twitter](https://img.shields.io/badge/twitter-@hakluke-blue.svg)](https://twitter.com/hakluke)
 [![Twitter](https://img.shields.io/badge/twitter-@codingo__-blue.svg)](https://twitter.com/codingo_)
@@ -21,6 +21,7 @@ Last Updated: 31-Mar-2024
 | June | 05/06/2024-05-07-2024 | Canberra, AU | [CyberSecurity for Government](https://cybersecgov.co/) | Unknown |
 | June | 25/06/2024 | Sydney, AU | [SydneySec](https://aisasecuritydays.com.au/sydneysec) | Unknown |
 | June | 25/06/2024 | Sydney, AU | [SCONES](https://scones.secso.cc/) | ~200 |
+| June | 26/06/2024 | Singapore | [Off-by-One](https://offbyone.sg/) | Unknown |
 | June | 28/06/2024 | Bangalore, India | [BSides Bangalore](https://bsidesbangalore.in/) | Unknown |
 | July | 13/07/2024 | Brisbane, Australia | [BSides Brisbane](https://bsidesbrisbane.com/) | ~450 (New Conference) |
 | July | 13/07/2024 | Hobart, Australia | [Hobart Kids SecuriDay](https://www.securiday.com/hba2024.html/) | Unknown |
