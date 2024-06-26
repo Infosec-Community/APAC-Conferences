@@ -7,7 +7,7 @@ Last Updated: 26-Jun-2024
 [![Twitter](https://img.shields.io/badge/twitter-@codingo__-blue.svg)](https://twitter.com/codingo_)
 [![Twitter](https://img.shields.io/badge/twitter-@hellodanielting-blue.svg)](https://twitter.com/hellodanielting)
 
-# Conferences by Month
+# APAC Conferences by Month
 | **Month** | **Next Conference Date** | **Location** | **Conference** | **Approx. Attendees*** |
 |---|---|---|---|---|
 | March | 23/03/2024 | Brisbane, Queensland, Australia | [CrikeyCon](https://www.crikeycon.com/) | ~800 |
@@ -20,9 +20,11 @@ Last Updated: 26-Jun-2024
 | May | 23/05/2024-05/24/2024 | Singapore, Singapore | [Infosec in the City](https://www.infosec-city.com/) | Unknown |
 | June | 05/06/2024-05-07-2024 | Canberra, AU | [CyberSecurity for Government](https://cybersecgov.co/) | Unknown |
 | June | 25/06/2024 | Sydney, AU | [SydneySec](https://aisasecuritydays.com.au/sydneysec) | Unknown |
+| June | 25/06/2024 | Sydney, AU | [SCONES](https://scones.secso.cc/) | ~200 |
 | June | 26/06/2024 | Singapore | [Off-by-One](https://offbyone.sg/) | Unknown |
 | June | 28/06/2024 | Bangalore, India | [BSides Bangalore](https://bsidesbangalore.in/) | Unknown |
 | July | 13/07/2024 | Brisbane, Australia | [BSides Brisbane](https://bsidesbrisbane.com/) | ~450 (New Conference) |
+| July | 13/07/2024 | Hobart, Australia | [Hobart Kids SecuriDay](https://www.securiday.com/hba2024.html/) | Unknown |
 | August | 20/08/2024 | Brisbane, QLD, Australia | [ROCCON](https://www.realmsofcyber.com/) | ~280 |
 | August | 29/08/2024 | Canberra, Australia | [AUSEC](https://publicsectornetwork.com/event/australian-security-summit-ausec/) | ~280 |
 | September | 03/09/2024 - 06/09/2024 | Auckland, NZ | [AppSec Auckland](https://appsec.org.nz/conference/) | Unknown |
@@ -30,8 +32,10 @@ Last Updated: 26-Jun-2024
 | September | 26/09/2024-28/09/2024 | Canberra, ACT, Australia | [BSides Canberra](http://www.bsidesau.com.au/) | 3000 + volunteers and speakers |
 | November | 7/11/2024 | Sydney, NSW, Australia | [Hack Sydney](https://www.hack.sydney/) | Unknown |
 | November | 9/11/2024 | Sydney, NSW, Australia | [BSides Sydney](https://www.bsides.sydney/) | Unknown |
+| November | 15/11/2024 - 17/11/2024 | Melbourne, Australia | [BSides Melbourne](https://www.bsidesmelbourne.com/) | 500 |
 | November | 21/11/2024 - 23/11/2024 | Christchurch, New Zealand | [CHCon](https://chcon.nz/) | Unknown |
 | November | 26/11/2024 - 28/11/2024 | Melbourne, Australia | [AISA CyberCon](https://conference.aisa.org.au/QuickEventWebsitePortal/2024-australian-cyber-conference-melbourne/cfs-site) | 1500+ |
+| November | 30/11/2024 | Melbourne, Australia | [Melbourne Kids SecuriDay](https://www.securiday.com/mel2024.html) | Unknown |
 
 * Approximate number of attendees is forecasted based on available tickets for a year, or the number of tickets sold in the previous year the event ran. Numbers may not be entirely accurate as there can be large fluctuations year on year.
 
@@ -43,8 +47,8 @@ Last Updated: 26-Jun-2024
 - [BSides Sydney](http://bsidessydney.org/)
 - [CSECcon](http://cseccon.utscyber.org/)
 - [MRE2023](https://federation.edu.au/icsl/icsl-conferences/mre-2023)
-- [Kids Securiday](https://www.securiday.com/)  
 - [Hack Sydney](https://www.hack.sydney/)
+- [SCONES](https://scones.secso.cc/)
 - [SydneySec](https://aisasecuritydays.com.au/sydneysec)
 
 ### Victoria
@@ -54,8 +58,12 @@ Last Updated: 26-Jun-2024
 - [OWASP AppSec Day](https://appsecday.io/)
 - [0xCC](https://www.0xcc.sh/)
 - [COSAC](https://cosac.net/)
-- [Kids Securiday](https://www.securiday.com/)
+- [Melbourne Kids Securiday](https://www.securiday.com/mel2024.html)
 - [AISA Cybercon](https://cyberconference.com.au/)
+
+### Tasmania
+#### Hobart
+- [Hobart Kids SecuriDay](https://www.securiday.com/hba2024.html/)
 
 ### Queensland
 #### Brisbane
@@ -107,6 +115,7 @@ Last Updated: 26-Jun-2024
 ## Singapore
 ### Singapore
 - [Blackhat Asia](https://www.blackhat.com/)
+- [GeekCon](https://geekcon.top/)
 - [SINCON / Infosec in the City](https://www.infosec-city.com/)
 
 ## Nepal
