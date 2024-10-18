@@ -23,11 +23,13 @@ Last Updated: 26-Jun-2024
 | June | 25/06/2024 | Sydney, AU | [SCONES](https://scones.secso.cc/) | ~200 |
 | June | 26/06/2024 | Singapore | [Off-by-One](https://offbyone.sg/) | Unknown |
 | June | 28/06/2024 | Bangalore, India | [BSides Bangalore](https://bsidesbangalore.in/) | Unknown |
+| July | 02/07/2024-03/07/2024 | Manila, Philippines | [PhilSecSummit](https://philsecsummit.com/) | ~500 |
 | July | 13/07/2024 | Brisbane, Australia | [BSides Brisbane](https://bsidesbrisbane.com/) | ~450 (New Conference) |
 | July | 13/07/2024 | Hobart, Australia | [Hobart Kids SecuriDay](https://www.securiday.com/hba2024.html/) | Unknown |
 | August | 20/08/2024 | Brisbane, QLD, Australia | [ROCCON](https://www.realmsofcyber.com/) | ~280 |
 | August | 29/08/2024 | Canberra, Australia | [AUSEC](https://publicsectornetwork.com/event/australian-security-summit-ausec/) | ~280 |
 | September | 03/09/2024 - 06/09/2024 | Auckland, NZ | [AppSec Auckland](https://appsec.org.nz/conference/) | Unknown |
+| September | 10/09/2024 | Manila, Philippines | [Dec{}de](https://decodeph.com/) | Unknown |
 | September | 25/09/2024-27/09/2024 | Tagaytay, Cavite, Philippines | [ROOTCON](https://www.rootcon.org/) | ~700-1000 |
 | September | 26/09/2024-28/09/2024 | Canberra, ACT, Australia | [BSides Canberra](http://www.bsidesau.com.au/) | 3000 + volunteers and speakers |
 | November | 2/11/2024 | Gold Coast, QLD, Australia | [BSides Gold Coast](https://bsidesgoldie.com) | 100 |
@@ -51,6 +53,7 @@ Last Updated: 26-Jun-2024
 - [CSECcon](http://cseccon.utscyber.org/)
 - [MRE2023](https://federation.edu.au/icsl/icsl-conferences/mre-2023)
 - [Hack Sydney](https://www.hack.sydney/)
+- [purplecon](https://purplecon.org/)
 - [SCONES](https://scones.secso.cc/)
 - [SydneySec](https://aisasecuritydays.com.au/sydneysec)
 
@@ -112,6 +115,9 @@ Last Updated: 26-Jun-2024
 - [CHCon](https://2022.chcon.nz/)
 
 ## Philippines
+### Manila
+- [PhilSecSummit](https://philsecsummit.com/)
+- [Dec{}de](https://decodeph.com/)
 ### Tagaytay
 - [ROOTCON](https://www.rootcon.org/)
 
