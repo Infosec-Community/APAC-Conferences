@@ -32,8 +32,10 @@ Last Updated: 26-Jun-2024
 | September | 10/09/2024 | Manila, Philippines | [Dec{}de](https://decodeph.com/) | Unknown |
 | September | 25/09/2024-27/09/2024 | Tagaytay, Cavite, Philippines | [ROOTCON](https://www.rootcon.org/) | ~700-1000 |
 | September | 26/09/2024-28/09/2024 | Canberra, ACT, Australia | [BSides Canberra](http://www.bsidesau.com.au/) | 3000 + volunteers and speakers |
+| November | 2/11/2024 | Gold Coast, QLD, Australia | [BSides Gold Coast](https://bsidesgoldie.com) | 100 |
+| November | 5/11/2024 | Sydney, NSW, Australia | [RooCon](https://x.com/RooCon_AU) | Unknown |
 | November | 7/11/2024 | Sydney, NSW, Australia | [Hack Sydney](https://www.hack.sydney/) | Unknown |
-| November | 8/11/2024 | Sydney, NSW, Australia | [purplecon](https://purplecon.org/) | Unknown |
+| November | 8/11/2024 | Sydney, NSW, Australia | [purplecon](https://purplecon.org) | Unknown |
 | November | 9/11/2024 | Sydney, NSW, Australia | [BSides Sydney](https://www.bsides.sydney/) | Unknown |
 | November | 15/11/2024 - 17/11/2024 | Melbourne, Australia | [BSides Melbourne](https://www.bsidesmelbourne.com/) | 500 |
 | November | 21/11/2024 - 23/11/2024 | Christchurch, New Zealand | [CHCon](https://chcon.nz/) | Unknown |
