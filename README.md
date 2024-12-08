@@ -25,7 +25,7 @@ Last Updated: 09-Dec-2024
 | August | 25/09/2025-27/09/2025 | Perth, WA, Australia | [BSides Perth](https://bsidesperth.com.au/) | 200 |
 | September | 25/09/2025-27/09/2025 | Canberra, ACT, Australia | [BSides Canberra](http://www.bsidesau.com.au/) | 3000 + volunteers and speakers |
 | August | 22/08/2025 | Adelaide, Australia | [AdelaideSEC](https://aisasecuritydays.com.au/adelaidesec) | 300 apx |
-| August | TBD | Brisbane, QLD, Australia | [ROCCON](https://www.realmsofcyber.com/) | ~280 |
+| August | TBD | Brisbane, QLD, Australia | [Realms of Cyber/ROCCON](https://www.realmsofcyber.com/) | ~280 |
 | September | 2l/09/2025-26/09/2025 | Tagaytay, Cavite, Philippines | [ROOTCON](https://www.rootcon.org/) | ~700-1000 |
 
 
@@ -63,12 +63,14 @@ Last Updated: 09-Dec-2024
 - [BrisSEC](https://www.aisa.org.au/Public/Events/Event_Display.aspx?EventKey=291c8df8-7ba0-4f55-967a-bf47a19aad0b&iSearchResult=true&WebsiteKey=f9fae671-69a2-4102-8f2f-cc24ed48d26c)
 - [CrikeyCon](https://www.crikeycon.com/)
 - [BSides Brisbane](https://bsidesbrisbane.com/)
+- [Realms of Cyber](https://www.realmsofcyber.com/)
 
 #### Sunshine Coast
 - [TuskCon](http://tuskcon.org/)
 
 #### Gold Coast
 - [AusCert](https://auscert.org.au/category/events/events_conferences/)
+- [BSides Goldie](https://bsidesgoldie.com/)
 
 ### ACT
 #### Canberra
