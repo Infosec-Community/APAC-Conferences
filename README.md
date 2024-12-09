@@ -13,6 +13,7 @@ Last Updated: 09-Dec-2024
 | March | 01/03/2025 - 02/03/2025 | Goa, India | [Nullcon](https://nullcon.net) | Unknown |
 | March | 06/03/2025 | Adelaide, SA, Australia | [Government Cyber Security Showcase Sourth Australia](https://publicsectornetwork.com/event/anz-government-cyber-security-showcase-south-australia/) | Unknown |
 | March | 15/03/2025 - 16/03/2025 | Sunshine Coast, Queensland, Australia | [TuskCon](https://tuskcon.org/) | 50 |
+| March | 17/03/2025-19/03/2025 | Canberra, ACT, Australia | [AISA Canberra CyberCon](https://www.aisa.org.au/Public/Public/Events/Event_Display.aspx?EventKey=14023d28-aaec-4e65-8d38-e44d7bbac507) | Unknown |
 | March | 22/03/2025 | Brisbane, Queensland, Australia | [CrikeyCon](https://www.crikeycon.com/) | ~800 |
 | April | 01/04/2025-02/04/2025 | Singapore, Singapore | [Blackhat Asia](https://www.blackhat.com/asia-24/) | Unknown |
 | May | 20/05/2025-23/05/2024 | Gold Coast, Queensland, Australia | [AusCERT](https://conference.auscert.org.au/) | 700 |
@@ -27,6 +28,7 @@ Last Updated: 09-Dec-2024
 | August | 22/08/2025 | Adelaide, Australia | [AdelaideSEC](https://aisasecuritydays.com.au/adelaidesec) | 300 apx |
 | August | TBD | Brisbane, QLD, Australia | [Realms of Cyber/ROCCON](https://www.realmsofcyber.com/) | ~280 |
 | September | 2l/09/2025-26/09/2025 | Tagaytay, Cavite, Philippines | [ROOTCON](https://www.rootcon.org/) | ~700-1000 |
+| November | TBD | Seoul, Korea | [POC](https://powerofcommunity.net/) | Unknown |
 
 
 * Approximate number of attendees is forecasted based on available tickets for a year, or the number of tickets sold in the previous year the event ran. Numbers may not be entirely accurate as there can be large fluctuations year on year.
@@ -127,6 +129,7 @@ Last Updated: 09-Dec-2024
 ## South Korea
 ### Seoul
 - [TypoonCon](https://typhooncon.com/?)
+- [POC](https://powerofcommunity.net/)
 
 ## Taiwan
 ### Taipei
