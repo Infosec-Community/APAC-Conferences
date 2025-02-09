@@ -25,12 +25,12 @@ Last Updated: 09-Dec-2024
 | May | 28/05/2025 | Melbourne, Victoria, Australia | [Government Cyber Security Showcase Victoria](https://publicsectornetwork.com/events/government-cyber-security-showcase-victoria-2025/) | Unknown |
 | May | 28/05/2025 - 29/05/2025 | Perth, WA, Australia | [Cyberwest Summit](https://www.cyberwestsummit.com.au/) | Unknown |
 | June | 19/06/2025 | Sydney, NSW, Australia | [Government Cyber Security Showcase New South Wales](https://publicsectornetwork.com/events/government-cyber-security-showcase-new-south-wales-2025/) | Unknown |
-| July | 01/07/2025 - 02/07/2024 | Manila, Philippines | [PhilSecSummit](https://philsecsummit.com/) | ~500 |
+| July | 22/07/2025 - 23/07/2025 | Manila, Philippines | [PhilSecSummit](https://philsecsummit.com/) | ~500 |
 | August | 25/09/2025 - 27/09/2025 | Perth, WA, Australia | [BSides Perth](https://bsidesperth.com.au/) | 200 |
 | September | 25/09/2025 - 27/09/2025 | Canberra, ACT, Australia | [BSides Canberra](http://www.bsidesau.com.au/) | 3000 + volunteers and speakers |
 | August | 22/08/2025 | Adelaide, South Australia, Australia | [AdelaideSEC](https://aisasecuritydays.com.au/adelaidesec) | 300 apx |
 | August | TBD | Brisbane, QLD, Australia | [Realms of Cyber/ROCCON](https://www.realmsofcyber.com/) | ~280 |
-| September | 2l/09/2025 - 26/09/2025 | Tagaytay, Cavite, Philippines | [ROOTCON](https://www.rootcon.org/) | ~700-1000 |
+| September | 24/09/2025 - 26/09/2025 | Tagaytay, Cavite, Philippines | [ROOTCON](https://www.rootcon.org/) | ~700-1000 |
 | October | 15/10/2025 - 17/10/2025 | Melbourne, Victoria, Australia | [AISA Melbourne Cybercon](https://cyberconference.com.au/) | ~5000 |
 | November | TBD | Seoul, Korea | [POC](https://powerofcommunity.net/) | Unknown |
 
