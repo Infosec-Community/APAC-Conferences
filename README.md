@@ -1,7 +1,7 @@
 # Asia-Pacific-Infosec-Conferences
 Below is a list of infosec / hacking conferences in Asia Pacific organised by month and region. If you know of any that are missing, or errors in the ones that are here - make a pull request or get in touch with hakluke or codingo.
 
-Last Updated: 24-Feb-2025
+Last Updated: 27-Feb-2025
 
 [![Twitter](https://img.shields.io/badge/twitter-@hakluke-blue.svg)](https://twitter.com/hakluke)
 [![Twitter](https://img.shields.io/badge/twitter-@codingo__-blue.svg)](https://twitter.com/codingo_)
@@ -25,6 +25,7 @@ Last Updated: 24-Feb-2025
 | May | 28/05/2025 | Melbourne, Victoria, Australia | [Government Cyber Security Showcase Victoria](https://publicsectornetwork.com/events/government-cyber-security-showcase-victoria-2025/) | Unknown |
 | May | 28/05/2025 - 29/05/2025 | Perth, WA, Australia | [Cyberwest Summit](https://www.cyberwestsummit.com.au/) | Unknown |
 | June | 19/06/2025 | Sydney, NSW, Australia | [Government Cyber Security Showcase New South Wales](https://publicsectornetwork.com/events/government-cyber-security-showcase-new-south-wales-2025/) | Unknown |
+| June | 21/06/2025 | Remote | [ComfyCon](https://au.comfycon.rocks/) | Unknown |
 | July | 22/07/2025 - 23/07/2025 | Manila, Philippines | [PhilSecSummit](https://philsecsummit.com/) | ~500 |
 | September | 25/09/2025 - 27/09/2025 | Canberra, ACT, Australia | [BSides Canberra](http://www.bsidesau.com.au/) | 3000 + volunteers and speakers |
 | August | 22/08/2025 | Adelaide, South Australia, Australia | [AdelaideSEC](https://aisasecuritydays.com.au/adelaidesec) | 300 apx |
@@ -94,6 +95,9 @@ Last Updated: 24-Feb-2025
 ### Western Australia
 #### Perth
 - [BSides Perth](https://bsidesperth.com.au/)
+
+### Remote
+- [ComfyCon](https://au.comfycon.rocks/)
 
 ## India
 ### Goa
