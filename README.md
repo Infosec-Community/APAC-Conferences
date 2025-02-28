@@ -1,7 +1,7 @@
 # Asia-Pacific-Infosec-Conferences
 Below is a list of infosec / hacking conferences in Asia Pacific organised by month and region. If you know of any that are missing, or errors in the ones that are here - make a pull request or get in touch with hakluke or codingo.
 
-Last Updated: 27-Feb-2025
+Last Updated: 28-Feb-2025
 
 [![Twitter](https://img.shields.io/badge/twitter-@hakluke-blue.svg)](https://twitter.com/hakluke)
 [![Twitter](https://img.shields.io/badge/twitter-@codingo__-blue.svg)](https://twitter.com/codingo_)
@@ -18,7 +18,7 @@ Last Updated: 27-Feb-2025
 | March | 22/03/2025 | Brisbane, Queensland, Australia | [CrikeyCon](https://www.crikeycon.com/) | ~800 |
 | April | 01/04/2025 - 02/04/2025 | Singapore, Singapore | [Blackhat Asia](https://www.blackhat.com/asia-24/) | Unknown |
 | May | 03/05/2025 - 04/05/2025 | Ballarat, Victoria, Australia | [BSides Ballarat](https://federation.edu.au/icsl/icsl-conferences/bsides-ballarat) | Unknown |
-| May | 12/05/2025 - 03/05/2025 | Adelaide, South Australia, Australia | [BSides Adelaide](https://www.bsidesadelaide.com.au/) | Unknown |
+| May | 12/05/2025 - 13/05/2025 | Adelaide, South Australia, Australia | [BSides Adelaide](https://www.bsidesadelaide.com.au/) | Unknown |
 | May | 20/05/2025 - 23/05/2025 | Gold Coast, Queensland, Australia | [AusCERT](https://conference.auscert.org.au/) | 700 |
 | May | 22/05/2025 - 05/23/2025 | Singapore, Singapore | [Infosec in the City](https://www.infosec-city.com/) | Unknown |
 | May | 26/05/2025 - 05/30/2025 | Seoul, Korea | [TyphoonCon](https://typhooncon.com/?) | Unknown |
