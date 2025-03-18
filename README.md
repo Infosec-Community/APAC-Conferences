@@ -1,7 +1,7 @@
 # Asia-Pacific-Infosec-Conferences
 Below is a list of infosec / hacking conferences in Asia Pacific organised by month and region. If you know of any that are missing, or errors in the ones that are here - make a pull request or get in touch with hakluke or codingo.
 
-Last Updated: 28-Feb-2025
+Last Updated: 18-Mar-2025
 
 [![Twitter](https://img.shields.io/badge/twitter-@hakluke-blue.svg)](https://twitter.com/hakluke)
 [![Twitter](https://img.shields.io/badge/twitter-@codingo__-blue.svg)](https://twitter.com/codingo_)
@@ -32,6 +32,7 @@ Last Updated: 28-Feb-2025
 | August | TBD | Brisbane, QLD, Australia | [Realms of Cyber/ROCCON](https://www.realmsofcyber.com/) | ~280 |
 | September | 24/09/2025 - 26/09/2025 | Tagaytay, Cavite, Philippines | [ROOTCON](https://www.rootcon.org/) | ~700-1000 |
 | October | 15/10/2025 - 17/10/2025 | Melbourne, Victoria, Australia | [AISA Melbourne Cybercon](https://cyberconference.com.au/) | ~5000 |
+| October | 18/10/2025 - 19/10/2025 | Perth, Western Australia, Australia | [BSides Perth](https://bsidesperth.com.au/) | ~500 |
 | November | 06/11/2025-08/11/2025 | Wellington, New Zealand | [Kawaiicon](https://kawaiicon.org/) | Unknown |
 | November | TBD | Seoul, Korea | [POC](https://powerofcommunity.net/) | Unknown |
 
