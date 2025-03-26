@@ -1,7 +1,7 @@
 # Asia-Pacific-Infosec-Conferences
 Below is a list of infosec / hacking conferences in Asia Pacific organised by month and region. If you know of any that are missing, or errors in the ones that are here - make a pull request or get in touch with hakluke or codingo.
 
-Last Updated: 18-Mar-2025
+Last Updated: 26-Mar-2025
 
 [![Twitter](https://img.shields.io/badge/twitter-@hakluke-blue.svg)](https://twitter.com/hakluke)
 [![Twitter](https://img.shields.io/badge/twitter-@codingo__-blue.svg)](https://twitter.com/codingo_)
@@ -11,7 +11,7 @@ Last Updated: 18-Mar-2025
 | **Month** | **Next Conference Date** | **Location** | **Conference** | **Approx. Attendees*** |
 |---|---|---|---|---|
 | March | 01/03/2025 - 02/03/2025 | Goa, India | [Nullcon](https://nullcon.net) | Unknown |
-| March | 03/03/2025 - 04/03/2025 | Melbourne, Victoria, Australia | [MRE 2025](https://federation.edu.au/icsl/icsl-conferences/mre-2025) | Unknown | 
+| March | 03/03/2025 - 04/03/2025 | Melbourne, Victoria, Australia | [MRE 2025](https://federation.edu.au/icsl/icsl-conferences/mre-2025) | Unknown |
 | March | 06/03/2025 | Adelaide, SA, Australia | [Government Cyber Security Showcase Sourth Australia](https://publicsectornetwork.com/event/anz-government-cyber-security-showcase-south-australia/) | Unknown |
 | March | 15/03/2025 - 16/03/2025 | Sunshine Coast, Queensland, Australia | [TuskCon](https://tuskcon.org/) | 50 |
 | March | 17/03/2025 - 19/03/2025 | Canberra, ACT, Australia | [AISA Canberra CyberCon](https://www.aisa.org.au/Public/Public/Events/Event_Display.aspx?EventKey=14023d28-aaec-4e65-8d38-e44d7bbac507) | ~1000 |
@@ -26,6 +26,7 @@ Last Updated: 18-Mar-2025
 | May | 28/05/2025 - 29/05/2025 | Perth, WA, Australia | [Cyberwest Summit](https://www.cyberwestsummit.com.au/) | Unknown |
 | June | 19/06/2025 | Sydney, NSW, Australia | [Government Cyber Security Showcase New South Wales](https://publicsectornetwork.com/events/government-cyber-security-showcase-new-south-wales-2025/) | Unknown |
 | June | 21/06/2025 | Remote | [ComfyCon](https://au.comfycon.rocks/) | Unknown |
+| July | 03/07/2025 | Sydney, NSW, Australia | [SydneySEC](https://aisasecuritydays.com.au/sydneysec) | ~600 |
 | July | 22/07/2025 - 23/07/2025 | Manila, Philippines | [PhilSecSummit](https://philsecsummit.com/) | ~500 |
 | September | 25/09/2025 - 27/09/2025 | Canberra, ACT, Australia | [BSides Canberra](http://www.bsidesau.com.au/) | 3000 + volunteers and speakers |
 | August | 22/08/2025 | Adelaide, South Australia, Australia | [AdelaideSEC](https://aisasecuritydays.com.au/adelaidesec) | 300 apx |
@@ -53,7 +54,7 @@ Last Updated: 18-Mar-2025
 ### Victoria
 #### Ballarat
 
-- [BSides Ballarat](https://federation.edu.au/icsl/icsl-conferences/bsides-ballarat) 
+- [BSides Ballarat](https://federation.edu.au/icsl/icsl-conferences/bsides-ballarat)
 
 
 #### Melbourne
@@ -69,7 +70,7 @@ Last Updated: 18-Mar-2025
 ### South Australia
 #### Adelaide
 
-- [BSides Adelaide](https://www.bsidesadelaide.com.au/) 
+- [BSides Adelaide](https://www.bsidesadelaide.com.au/)
 
 ### Tasmania
 #### Hobart
