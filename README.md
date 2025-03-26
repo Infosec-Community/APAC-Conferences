@@ -32,6 +32,7 @@ Last Updated: 26-Mar-2025
 | August | 22/08/2025 | Adelaide, South Australia, Australia | [AdelaideSEC](https://aisasecuritydays.com.au/adelaidesec) | 300 apx |
 | August | TBD | Brisbane, QLD, Australia | [Realms of Cyber/ROCCON](https://www.realmsofcyber.com/) | ~280 |
 | September | 24/09/2025 - 26/09/2025 | Tagaytay, Cavite, Philippines | [ROOTCON](https://www.rootcon.org/) | ~700-1000 |
+| October | 07/10/2025 - 11/10/2025 | Kochi, Kerala, India | [c0c0n](https://india.c0c0n.org/2025/) | Unknown |
 | October | 15/10/2025 - 17/10/2025 | Melbourne, Victoria, Australia | [AISA Melbourne Cybercon](https://cyberconference.com.au/) | ~5000 |
 | October | 18/10/2025 - 19/10/2025 | Perth, Western Australia, Australia | [BSides Perth](https://bsidesperth.com.au/) | ~500 |
 | November | 06/11/2025-08/11/2025 | Wellington, New Zealand | [Kawaiicon](https://kawaiicon.org/) | Unknown |
@@ -106,7 +107,7 @@ Last Updated: 26-Mar-2025
 - [Nullcon](https://nullcon.net)
 
 ### Kochi
-- [c0c0n 12](https://www.c0c0n.org/)
+- [c0c0n](https://www.c0c0n.org/)
 
 ### Delhi
 - [BSides Delhi](https://bsidesdelhi.in/)
