@@ -1,7 +1,7 @@
 # Asia-Pacific-Infosec-Conferences
 Below is a list of infosec / hacking conferences in Asia Pacific organised by month and region. If you know of any that are missing, or errors in the ones that are here - make a pull request or get in touch with hakluke or codingo.
 
-Last Updated: 26-Mar-2025
+Last Updated: 29-Mar-2025
 
 [![Twitter](https://img.shields.io/badge/twitter-@hakluke-blue.svg)](https://twitter.com/hakluke)
 [![Twitter](https://img.shields.io/badge/twitter-@codingo__-blue.svg)](https://twitter.com/codingo_)
@@ -16,7 +16,7 @@ Last Updated: 26-Mar-2025
 | March | 15/03/2025 - 16/03/2025 | Sunshine Coast, Queensland, Australia | [TuskCon](https://tuskcon.org/) | 50 |
 | March | 17/03/2025 - 19/03/2025 | Canberra, ACT, Australia | [AISA Canberra CyberCon](https://www.aisa.org.au/Public/Public/Events/Event_Display.aspx?EventKey=14023d28-aaec-4e65-8d38-e44d7bbac507) | ~1000 |
 | March | 22/03/2025 | Brisbane, Queensland, Australia | [CrikeyCon](https://www.crikeycon.com/) | ~800 |
-| April | 01/04/2025 - 02/04/2025 | Singapore, Singapore | [Blackhat Asia](https://www.blackhat.com/asia-24/) | Unknown |
+| April | 01/04/2025 - 02/04/2025 | Singapore, Singapore | [Blackhat Asia](https://www.blackhat.com/asia-25/) | Unknown |
 | May | 03/05/2025 - 04/05/2025 | Ballarat, Victoria, Australia | [BSides Ballarat](https://federation.edu.au/icsl/icsl-conferences/bsides-ballarat) | Unknown |
 | May | 12/05/2025 - 13/05/2025 | Adelaide, South Australia, Australia | [BSides Adelaide](https://www.bsidesadelaide.com.au/) | Unknown |
 | May | 20/05/2025 - 23/05/2025 | Gold Coast, Queensland, Australia | [AusCERT](https://conference.auscert.org.au/) | 700 |
