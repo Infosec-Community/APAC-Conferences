@@ -23,7 +23,7 @@ Last Updated: 29-Mar-2025
 | May | 22/05/2025 - 05/23/2025 | Singapore, Singapore | [Infosec in the City](https://www.infosec-city.com/) | Unknown |
 | May | 26/05/2025 - 05/30/2025 | Seoul, Korea | [TyphoonCon](https://typhooncon.com/?) | Unknown |
 | May | 28/05/2025 | Melbourne, Victoria, Australia | [Government Cyber Security Showcase Victoria](https://publicsectornetwork.com/events/government-cyber-security-showcase-victoria-2025/) | Unknown |
-| May | 28/05/2025 - 29/05/2025 | Perth, WA, Australia | [Cyberwest Summit](https://www.cyberwestsummit.com.au/) | Unknown |
+| May | 28/05/2025 - 29/05/2025 | Perth, WA, Australia | [Cyberwest Summit](https://www.cyberwestsummit.com.au/) | ~600 |
 | June | 19/06/2025 | Sydney, NSW, Australia | [Government Cyber Security Showcase New South Wales](https://publicsectornetwork.com/events/government-cyber-security-showcase-new-south-wales-2025/) | Unknown |
 | June | 21/06/2025 | Remote | [ComfyCon](https://au.comfycon.rocks/) | Unknown |
 | July | 03/07/2025 | Sydney, NSW, Australia | [SydneySEC](https://aisasecuritydays.com.au/sydneysec) | ~600 |
