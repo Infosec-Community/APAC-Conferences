@@ -17,6 +17,7 @@ Last Updated: 29-Mar-2025
 | March | 17/03/2025 - 19/03/2025 | Canberra, ACT, Australia | [AISA Canberra CyberCon](https://www.aisa.org.au/Public/Public/Events/Event_Display.aspx?EventKey=14023d28-aaec-4e65-8d38-e44d7bbac507) | ~1000 |
 | March | 22/03/2025 | Brisbane, Queensland, Australia | [CrikeyCon](https://www.crikeycon.com/) | ~800 |
 | April | 01/04/2025 - 02/04/2025 | Singapore, Singapore | [Blackhat Asia](https://www.blackhat.com/asia-25/) | Unknown |
+| April | 15/04/2025 - 17/04/2025 | Taipei, Taiwan | [Cybersec 2025](https://cybersec.ithome.com.tw/) | Unknown |
 | May | 03/05/2025 - 04/05/2025 | Ballarat, Victoria, Australia | [BSides Ballarat](https://federation.edu.au/icsl/icsl-conferences/bsides-ballarat) | Unknown |
 | May | 12/05/2025 - 13/05/2025 | Adelaide, South Australia, Australia | [BSides Adelaide](https://www.bsidesadelaide.com.au/) | Unknown |
 | May | 20/05/2025 - 23/05/2025 | Gold Coast, Queensland, Australia | [AusCERT](https://conference.auscert.org.au/) | 700 |
@@ -154,6 +155,7 @@ Last Updated: 29-Mar-2025
 ## Taiwan
 ### Taipei
 - [HitCon](https://hitcon.org/)
+- [Cybersec 2025](https://cybersec.ithome.com.tw/)
 
 # Global Conferences that you might care about
 ### RSA
@@ -161,7 +163,7 @@ Last Updated: 29-Mar-2025
 
 ## Hacker Summer Camp
 ### BSides Las Vegas
-- August TBD | [BSides Las Vegas](https://bsideslv.org/)
+- 04/08/2025 - 06/08/2025 | [BSides Las Vegas](https://bsideslv.org/)
 ### Blackhat USA
 - 02/08/2025 - 07/08/2025 | [Blackhat USA](https://www.blackhat.com/upcoming.html#usa)
 ### DEFCON
