@@ -1,7 +1,7 @@
 # Asia-Pacific-Infosec-Conferences
 Below is a list of infosec / hacking conferences in Asia Pacific organised by month and region. If you know of any that are missing, or errors in the ones that are here - make a pull request or get in touch with hakluke or codingo.
 
-Last Updated: 29-Mar-2025
+Last Updated: 26-Apr-2025
 
 [![Twitter](https://img.shields.io/badge/twitter-@hakluke-blue.svg)](https://twitter.com/hakluke)
 [![Twitter](https://img.shields.io/badge/twitter-@codingo__-blue.svg)](https://twitter.com/codingo_)
@@ -31,7 +31,7 @@ Last Updated: 29-Mar-2025
 | July | 22/07/2025 - 23/07/2025 | Manila, Philippines | [PhilSecSummit](https://philsecsummit.com/) | ~500 |
 | September | 25/09/2025 - 27/09/2025 | Canberra, ACT, Australia | [BSides Canberra](http://www.bsidesau.com.au/) | 3000 + volunteers and speakers |
 | August | 22/08/2025 | Adelaide, South Australia, Australia | [AdelaideSEC](https://aisasecuritydays.com.au/adelaidesec) | 300 apx |
-| August | TBD | Brisbane, QLD, Australia | [Realms of Cyber/ROCCON](https://www.realmsofcyber.com/) | ~280 |
+| August | 28/08/2025 | Brisbane, QLD, Australia | [Realms of Cyber/ROCCON](https://www.realmsofcyber.com/) | ~280 |
 | September | 24/09/2025 - 26/09/2025 | Tagaytay, Cavite, Philippines | [ROOTCON](https://www.rootcon.org/) | ~700-1000 |
 | October | 07/10/2025 - 11/10/2025 | Kochi, Kerala, India | [c0c0n](https://india.c0c0n.org/2025/) | Unknown |
 | October | 15/10/2025 - 17/10/2025 | Melbourne, Victoria, Australia | [AISA Melbourne Cybercon](https://cyberconference.com.au/) | ~5000 |
