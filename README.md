@@ -37,6 +37,7 @@ Last Updated: 26-Apr-2025
 | October | 15/10/2025 - 17/10/2025 | Melbourne, Victoria, Australia | [AISA Melbourne Cybercon](https://cyberconference.com.au/) | ~5000 |
 | October | 18/10/2025 - 19/10/2025 | Perth, Western Australia, Australia | [BSides Perth](https://bsidesperth.com.au/) | ~500 |
 | November | 06/11/2025-08/11/2025 | Wellington, New Zealand | [Kawaiicon](https://kawaiicon.org/) | Unknown |
+| November | 08/11/2025-09/11/2025 | Sydney, NSW | [BSides Sydney](https://www.bsides.sydney/) | Unknown |
 | November | TBD | Seoul, Korea | [POC](https://powerofcommunity.net/) | Unknown |
 
 * Approximate number of attendees is forecasted based on available tickets for a year, or the number of tickets sold in the previous year the event ran. Numbers may not be entirely accurate as there can be large fluctuations year on year.
