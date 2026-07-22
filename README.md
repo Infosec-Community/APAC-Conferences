@@ -94,6 +94,7 @@ Previous schedules are available in the [conference archive](archive.md).
 #### Melbourne
 
 - [BSides Melbourne](https://www.bsidesmelbourne.com/)
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation and a local privacy gateway.
 - [OWASP AppSec Day](https://appsecday.io/)
 - [0xCC](https://www.0xcc.sh/)
 - [COSAC](https://cosac.net/)
