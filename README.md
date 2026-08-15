@@ -33,6 +33,7 @@ Previous schedules are available in the [conference archive](archive.md).
 | Date | Conference | Location | Approx. Attendees\* |
 | --- | --- | --- | --- |
 | 4 - 10 Sep 2026 | [APNIC62](https://conference.apnic.net/62/index.html) | Mumbai, India | Unknown |
+| 12 Sep 2026 | [CSECcon V](https://utscyber.org/cseccon-ticket) | Sydney, NSW, Australia | Unknown |
 | 18-19 Sep 2026 | [Unprompted.au](https://www.unprompted.au/) | Sydney, NSW, Australia | Unknown |
 | 24-26 Sep 2026 | [BSides Canberra IX](https://www.bsidesau.com.au/) | Canberra, ACT, Australia | Unknown |
 
