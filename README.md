@@ -2,7 +2,7 @@
 
 Below is a list of infosec / hacking conferences in Asia Pacific. The dated schedule is organised by year and month, and the directory is organised by region. If you know of any that are missing, or errors in the ones that are here - make a pull request or get in touch with hakluke or codingo.
 
-Last Updated: 2026-07-07
+Last Updated: 2026-07-21
 
 [![Twitter](https://img.shields.io/badge/twitter-@hakluke-blue.svg)](https://twitter.com/hakluke)
 [![Twitter](https://img.shields.io/badge/twitter-@codingo__-blue.svg)](https://twitter.com/codingo_)
@@ -22,6 +22,7 @@ Previous schedules are available in the [conference archive](archive.md).
 | Date | Conference | Location | Approx. Attendees\* |
 | --- | --- | --- | --- |
 | 27 Aug 2026 | [Realms of Cyber 2026](https://www.realmsofcyber.com/) | Brisbane, QLD, Australia | Unknown |
+| 28 - 29 Aug 2026| [BSides ICS Downunder](https://www.linkedin.com/company/bsides-ics-downunder/posts/?feedView=all) | Melbourne, VIC, Australia | Unknown |
 
 </details>
 
@@ -47,6 +48,8 @@ Previous schedules are available in the [conference archive](archive.md).
 | Date | Conference | Location | Approx. Attendees\* |
 | --- | --- | --- | --- |
 | 14-16 Oct 2026 | [Australian Cyber Conference 2026](https://melbourne2026.cyberconference.com.au/) | Melbourne, Victoria, Australia | 5,500+ |
+| 29 Oct 2026 | [Kākācon](https://www.xn--kkcon-fwab.nz/) | Wellington, New Zealand | <50 |
+| 30 - 31 Oct 2026 | [Kawaiicon](https://kawaiicon.org/) | Wellington, New Zealand | 2000 |
 
 </details>
 
@@ -59,6 +62,18 @@ Previous schedules are available in the [conference archive](archive.md).
 | --- | --- | --- | --- |
 | 07 Nov 2026 | [BSides Sydney 2026](https://www.bsides.sydney/copy-of-sarah) | Meadowbank, NSW, Australia | 500+ |
 | 13-14 Nov 2026 | [BSides Perth 2026](https://bsidesperth.com.au/) | Crawley, WA, Australia | Unknown |
+| 18 - 20 Nov | [ChCon](https://2026.chcon.nz/) | Christchurch, New Zealand | 400 |
+
+</details>
+
+### 📅 December 2026
+
+<details open>
+<summary>View conferences</summary>
+
+| Date | Conference | Location | Approx. Attendees\* |
+| --- | --- | --- | --- |
+| 5 - 6 Dec | [BaaCon](https://baacon.nz/) | Rural Wairarapa, New Zealand | 50 |
 
 </details>
 
@@ -185,10 +200,15 @@ Previous schedules are available in the [conference archive](archive.md).
 ### Wellington
 
 - [Kawaiicon](https://kawaiicon.org/)
+- [Kākācon](https://www.xn--kkcon-fwab.nz/)
 
 ### Christchurch
 
-- [CHCon](https://2022.chcon.nz/)
+- [CHCon](https://2026.chcon.nz/)
+
+### Wairarapa
+
+- [BaaCon](https://baacon.nz/)
 
 </details>
 
